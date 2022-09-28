@@ -1,0 +1,5764 @@
+{
+  "data": [
+    {
+      "default_name": "Abstract",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "trừu tượng"
+        },
+        {
+          "country": "en",
+          "name": "abstract"
+        },
+        {
+          "country": "pt",
+          "name": "resumo"
+        },
+        {
+          "country": "ko",
+          "name": "추출"
+        },
+        {
+          "country": "ja",
+          "name": "概要"
+        },
+        {
+          "country": "in",
+          "name": "abstrak"
+        },
+        {
+          "country": "fr",
+          "name": "abstrait"
+        },
+        {
+          "country": "fil",
+          "name": "mahirap unawain"
+        },
+        {
+          "country": "es",
+          "name": "Abstracto"
+        },
+        {
+          "country": "de",
+          "name": "abstrakt"
+        }
+      ]
+    },
+    {
+      "default_name": "Bussiness",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Kinh doanh"
+        },
+        {
+          "country": "en",
+          "name": "Bussiness"
+        },
+        {
+          "country": "pt",
+          "name": "Negócios"
+        },
+        {
+          "country": "ko",
+          "name": "비즈니스"
+        },
+        {
+          "country": "ja",
+          "name": "忙しさ"
+        },
+        {
+          "country": "in",
+          "name": "Bisnis"
+        },
+        {
+          "country": "fr",
+          "name": "Affaires"
+        },
+        {
+          "country": "fil",
+          "name": "Negosyo"
+        },
+        {
+          "country": "es",
+          "name": "Negocios"
+        },
+        {
+          "country": "de",
+          "name": "Geschäft"
+        }
+      ]
+    },
+    {
+      "default_name": "Lifestyle",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cách sống"
+        },
+        {
+          "country": "en",
+          "name": "Lifestyle"
+        },
+        {
+          "country": "pt",
+          "name": "Estilo de vida"
+        },
+        {
+          "country": "ko",
+          "name": "생활 양식"
+        },
+        {
+          "country": "ja",
+          "name": "ライフスタイル"
+        },
+        {
+          "country": "in",
+          "name": "Gaya hidup"
+        },
+        {
+          "country": "fr",
+          "name": "Mode de vie"
+        },
+        {
+          "country": "fil",
+          "name": "Lifestyle"
+        },
+        {
+          "country": "es",
+          "name": "Estilo de vida"
+        },
+        {
+          "country": "de",
+          "name": "Lebensstil"
+        }
+      ]
+    },
+    {
+      "default_name": "Active Lifestyle",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Lối sống năng động"
+        },
+        {
+          "country": "en",
+          "name": "Active Lifestyle"
+        },
+        {
+          "country": "pt",
+          "name": "Estilo de vida ativo"
+        },
+        {
+          "country": "ko",
+          "name": "활동적인 라이프 스타일"
+        },
+        {
+          "country": "ja",
+          "name": "アクティブなライフスタイル"
+        },
+        {
+          "country": "in",
+          "name": "Gaya hidup aktif"
+        },
+        {
+          "country": "fr",
+          "name": "Mode de vie actif"
+        },
+        {
+          "country": "fil",
+          "name": "Aktibong Pamumuhay"
+        },
+        {
+          "country": "es",
+          "name": "Estilo de vida activo"
+        },
+        {
+          "country": "de",
+          "name": "Aktiver Lebensstil"
+        }
+      ]
+    },
+    {
+      "default_name": "Alphabet",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Bảng chữ cái"
+        },
+        {
+          "country": "en",
+          "name": "Alphabet"
+        },
+        {
+          "country": "pt",
+          "name": "Alfabeto"
+        },
+        {
+          "country": "ko",
+          "name": "알파벳"
+        },
+        {
+          "country": "ja",
+          "name": "アルファベット"
+        },
+        {
+          "country": "in",
+          "name": "Alfabet"
+        },
+        {
+          "country": "fr",
+          "name": "Alphabet"
+        },
+        {
+          "country": "fil",
+          "name": "Alpabeto"
+        },
+        {
+          "country": "es",
+          "name": "Alfabeto"
+        },
+        {
+          "country": "de",
+          "name": "Alphabet"
+        }
+      ]
+    },
+    {
+      "default_name": "Alphanumerics",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Chữ và số"
+        },
+        {
+          "country": "en",
+          "name": "Alphanumerics"
+        },
+        {
+          "country": "pt",
+          "name": "Alfanuméricos"
+        },
+        {
+          "country": "ko",
+          "name": "영숫자"
+        },
+        {
+          "country": "ja",
+          "name": "英数字"
+        },
+        {
+          "country": "in",
+          "name": "Alfanumerik"
+        },
+        {
+          "country": "fr",
+          "name": "Alphanumériques"
+        },
+        {
+          "country": "fil",
+          "name": "Alphanumerics"
+        },
+        {
+          "country": "es",
+          "name": "Alfanuméricas"
+        },
+        {
+          "country": "de",
+          "name": "alphanumerische Zeichen"
+        }
+      ]
+    },
+    {
+      "default_name": "Animal",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Thú vật"
+        },
+        {
+          "country": "en",
+          "name": "Animal"
+        },
+        {
+          "country": "pt",
+          "name": "Animal"
+        },
+        {
+          "country": "ko",
+          "name": "동물"
+        },
+        {
+          "country": "ja",
+          "name": "動物"
+        },
+        {
+          "country": "in",
+          "name": "Satwa"
+        },
+        {
+          "country": "fr",
+          "name": "Animal"
+        },
+        {
+          "country": "fil",
+          "name": "Hayop"
+        },
+        {
+          "country": "es",
+          "name": "Animal"
+        },
+        {
+          "country": "de",
+          "name": "Tier"
+        }
+      ]
+    },
+    {
+      "default_name": "Arabic",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ả Rập"
+        },
+        {
+          "country": "en",
+          "name": "Arabic"
+        },
+        {
+          "country": "pt",
+          "name": "árabe"
+        },
+        {
+          "country": "ko",
+          "name": "아라비아 말"
+        },
+        {
+          "country": "ja",
+          "name": "アラビア語"
+        },
+        {
+          "country": "in",
+          "name": "Arab"
+        },
+        {
+          "country": "fr",
+          "name": "arabe"
+        },
+        {
+          "country": "fil",
+          "name": "Arabe"
+        },
+        {
+          "country": "es",
+          "name": "Arábica"
+        },
+        {
+          "country": "de",
+          "name": "Arabisch"
+        }
+      ]
+    },
+    {
+      "default_name": "Architecture",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ngành kiến trúc"
+        },
+        {
+          "country": "en",
+          "name": "Architecture"
+        },
+        {
+          "country": "pt",
+          "name": "Arquitetura"
+        },
+        {
+          "country": "ko",
+          "name": "건축물"
+        },
+        {
+          "country": "ja",
+          "name": "建築"
+        },
+        {
+          "country": "in",
+          "name": "Arsitektur"
+        },
+        {
+          "country": "fr",
+          "name": "Architecture"
+        },
+        {
+          "country": "fil",
+          "name": "Arkitektura"
+        },
+        {
+          "country": "es",
+          "name": "Arquitectura"
+        },
+        {
+          "country": "de",
+          "name": "Die Architektur"
+        }
+      ]
+    },
+    {
+      "default_name": "Art",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nghệ thuật"
+        },
+        {
+          "country": "en",
+          "name": "Art"
+        },
+        {
+          "country": "pt",
+          "name": "Arte"
+        },
+        {
+          "country": "ko",
+          "name": "미술"
+        },
+        {
+          "country": "ja",
+          "name": "アート"
+        },
+        {
+          "country": "in",
+          "name": "Seni"
+        },
+        {
+          "country": "fr",
+          "name": "Art"
+        },
+        {
+          "country": "fil",
+          "name": "Art"
+        },
+        {
+          "country": "es",
+          "name": "Arte"
+        },
+        {
+          "country": "de",
+          "name": "Kunst"
+        }
+      ]
+    },
+    {
+      "default_name": "Artist",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Họa sĩ"
+        },
+        {
+          "country": "en",
+          "name": "Artist"
+        },
+        {
+          "country": "pt",
+          "name": "Artista"
+        },
+        {
+          "country": "ko",
+          "name": "예술가"
+        },
+        {
+          "country": "ja",
+          "name": "アーティスト"
+        },
+        {
+          "country": "in",
+          "name": "Artis"
+        },
+        {
+          "country": "fr",
+          "name": "Artiste"
+        },
+        {
+          "country": "fil",
+          "name": "Artista"
+        },
+        {
+          "country": "es",
+          "name": "Artista"
+        },
+        {
+          "country": "de",
+          "name": "Künstler"
+        }
+      ]
+    },
+    {
+      "default_name": "Auto Mobile",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Di động tự động"
+        },
+        {
+          "country": "en",
+          "name": "Auto Mobile"
+        },
+        {
+          "country": "pt",
+          "name": "Auto Mobile"
+        },
+        {
+          "country": "ko",
+          "name": "자동 모바일"
+        },
+        {
+          "country": "ja",
+          "name": "オートモバイル"
+        },
+        {
+          "country": "in",
+          "name": "Seluler Otomatis"
+        },
+        {
+          "country": "fr",
+          "name": "Voiture"
+        },
+        {
+          "country": "fil",
+          "name": "Auto Mobile"
+        },
+        {
+          "country": "es",
+          "name": "Automóvil"
+        },
+        {
+          "country": "de",
+          "name": "Auto Mobile"
+        }
+      ]
+    },
+    {
+      "default_name": "Badge",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Huy hiệu"
+        },
+        {
+          "country": "en",
+          "name": "Badge"
+        },
+        {
+          "country": "pt",
+          "name": "Distintivo"
+        },
+        {
+          "country": "ko",
+          "name": "배지"
+        },
+        {
+          "country": "ja",
+          "name": "バッジ"
+        },
+        {
+          "country": "in",
+          "name": "Lencana"
+        },
+        {
+          "country": "fr",
+          "name": "Badge"
+        },
+        {
+          "country": "fil",
+          "name": "Badge"
+        },
+        {
+          "country": "es",
+          "name": "Insignia"
+        },
+        {
+          "country": "de",
+          "name": "Abzeichen"
+        }
+      ]
+    },
+    {
+      "default_name": "Bakery",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cửa hàng bánh mì"
+        },
+        {
+          "country": "en",
+          "name": "Bakery"
+        },
+        {
+          "country": "pt",
+          "name": "Padaria"
+        },
+        {
+          "country": "ko",
+          "name": "빵집"
+        },
+        {
+          "country": "ja",
+          "name": "ベーカリー"
+        },
+        {
+          "country": "in",
+          "name": "Toko roti"
+        },
+        {
+          "country": "fr",
+          "name": "Boulangerie"
+        },
+        {
+          "country": "fil",
+          "name": "Bakery"
+        },
+        {
+          "country": "es",
+          "name": "Panadería"
+        },
+        {
+          "country": "de",
+          "name": "Bäckerei"
+        }
+      ]
+    },
+    {
+      "default_name": "Barber",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "thợ hớt tóc"
+        },
+        {
+          "country": "en",
+          "name": "Barber"
+        },
+        {
+          "country": "pt",
+          "name": "Barbeiro"
+        },
+        {
+          "country": "ko",
+          "name": "이발사"
+        },
+        {
+          "country": "ja",
+          "name": "床屋"
+        },
+        {
+          "country": "in",
+          "name": "Tukang cukur"
+        },
+        {
+          "country": "fr",
+          "name": "Coiffeur"
+        },
+        {
+          "country": "fil",
+          "name": "Barbero"
+        },
+        {
+          "country": "es",
+          "name": "Barbero"
+        },
+        {
+          "country": "de",
+          "name": "Barbier"
+        }
+      ]
+    },
+    {
+      "default_name": "Basket",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cái rổ"
+        },
+        {
+          "country": "en",
+          "name": "Basket"
+        },
+        {
+          "country": "pt",
+          "name": "Cesta"
+        },
+        {
+          "country": "ko",
+          "name": "바구니"
+        },
+        {
+          "country": "ja",
+          "name": "バスケット"
+        },
+        {
+          "country": "in",
+          "name": "Keranjang"
+        },
+        {
+          "country": "fr",
+          "name": "Panier"
+        },
+        {
+          "country": "fil",
+          "name": "Basket"
+        },
+        {
+          "country": "es",
+          "name": "Cesta"
+        },
+        {
+          "country": "de",
+          "name": "Korb"
+        }
+      ]
+    },
+    {
+      "default_name": "Beauty",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "sắc đẹp, vẻ đẹp"
+        },
+        {
+          "country": "en",
+          "name": "Beauty"
+        },
+        {
+          "country": "pt",
+          "name": "Beleza"
+        },
+        {
+          "country": "ko",
+          "name": "아름다움"
+        },
+        {
+          "country": "ja",
+          "name": "美しさ"
+        },
+        {
+          "country": "in",
+          "name": "Kecantikan"
+        },
+        {
+          "country": "fr",
+          "name": "Beauté"
+        },
+        {
+          "country": "fil",
+          "name": "Kagandahan"
+        },
+        {
+          "country": "es",
+          "name": "Belleza"
+        },
+        {
+          "country": "de",
+          "name": "Schönheit"
+        }
+      ]
+    },
+    {
+      "default_name": "Bird",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Chim"
+        },
+        {
+          "country": "en",
+          "name": "Bird"
+        },
+        {
+          "country": "pt",
+          "name": "Pássaro"
+        },
+        {
+          "country": "ko",
+          "name": "새"
+        },
+        {
+          "country": "ja",
+          "name": "鳥"
+        },
+        {
+          "country": "in",
+          "name": "Burung"
+        },
+        {
+          "country": "fr",
+          "name": "Oiseau"
+        },
+        {
+          "country": "fil",
+          "name": "Ibon"
+        },
+        {
+          "country": "es",
+          "name": "Pájaro"
+        },
+        {
+          "country": "de",
+          "name": "Vogel"
+        }
+      ]
+    },
+    {
+      "default_name": "Birthday",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sinh nhật"
+        },
+        {
+          "country": "en",
+          "name": "Birthday"
+        },
+        {
+          "country": "pt",
+          "name": "Aniversário"
+        },
+        {
+          "country": "ko",
+          "name": "생신"
+        },
+        {
+          "country": "ja",
+          "name": "お誕生日"
+        },
+        {
+          "country": "in",
+          "name": "Ulang tahun"
+        },
+        {
+          "country": "fr",
+          "name": "Date d'anniversaire"
+        },
+        {
+          "country": "fil",
+          "name": "Kaarawan"
+        },
+        {
+          "country": "es",
+          "name": "Cumpleaños"
+        },
+        {
+          "country": "de",
+          "name": "Geburtstag"
+        }
+      ]
+    },
+    {
+      "default_name": "Black",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đen"
+        },
+        {
+          "country": "en",
+          "name": "Black"
+        },
+        {
+          "country": "pt",
+          "name": "Preto"
+        },
+        {
+          "country": "ko",
+          "name": "검정"
+        },
+        {
+          "country": "ja",
+          "name": "ブラック"
+        },
+        {
+          "country": "in",
+          "name": "Hitam"
+        },
+        {
+          "country": "fr",
+          "name": "Noir"
+        },
+        {
+          "country": "fil",
+          "name": "Itim"
+        },
+        {
+          "country": "es",
+          "name": "Negro"
+        },
+        {
+          "country": "de",
+          "name": "Schwarz"
+        }
+      ]
+    },
+    {
+      "default_name": "Book",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sách"
+        },
+        {
+          "country": "en",
+          "name": "Book"
+        },
+        {
+          "country": "pt",
+          "name": "Livro"
+        },
+        {
+          "country": "ko",
+          "name": "책"
+        },
+        {
+          "country": "ja",
+          "name": "本"
+        },
+        {
+          "country": "in",
+          "name": "Book"
+        },
+        {
+          "country": "fr",
+          "name": "Noir"
+        },
+        {
+          "country": "fil",
+          "name": "Libro"
+        },
+        {
+          "country": "es",
+          "name": "Libro"
+        },
+        {
+          "country": "de",
+          "name": "Buch"
+        }
+      ]
+    },
+    {
+      "default_name": "Camera",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Máy ảnh"
+        },
+        {
+          "country": "en",
+          "name": "Camera"
+        },
+        {
+          "country": "pt",
+          "name": "Câmera"
+        },
+        {
+          "country": "ko",
+          "name": "카메라"
+        },
+        {
+          "country": "ja",
+          "name": "カメラ"
+        },
+        {
+          "country": "in",
+          "name": "Kamera"
+        },
+        {
+          "country": "fr",
+          "name": "Caméra"
+        },
+        {
+          "country": "fil",
+          "name": "Kamera"
+        },
+        {
+          "country": "es",
+          "name": "Cámara"
+        },
+        {
+          "country": "de",
+          "name": "Kamera"
+        }
+      ]
+    },
+    {
+      "default_name": "Cars",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ô tô"
+        },
+        {
+          "country": "en",
+          "name": "Cars"
+        },
+        {
+          "country": "pt",
+          "name": "Carros"
+        },
+        {
+          "country": "ko",
+          "name": "자동차"
+        },
+        {
+          "country": "ja",
+          "name": "車"
+        },
+        {
+          "country": "in",
+          "name": "Mobil"
+        },
+        {
+          "country": "fr",
+          "name": "Voitures"
+        },
+        {
+          "country": "fil",
+          "name": "Mga sasakyan"
+        },
+        {
+          "country": "es",
+          "name": "Carros"
+        },
+        {
+          "country": "de",
+          "name": "Autos"
+        }
+      ]
+    },
+    {
+      "default_name": "Cartoon",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Hoạt hình"
+        },
+        {
+          "country": "en",
+          "name": "Cartoon"
+        },
+        {
+          "country": "pt",
+          "name": "Desenho animado"
+        },
+        {
+          "country": "ko",
+          "name": "만화"
+        },
+        {
+          "country": "ja",
+          "name": "漫画"
+        },
+        {
+          "country": "in",
+          "name": "Kartun"
+        },
+        {
+          "country": "fr",
+          "name": "Dessin animé"
+        },
+        {
+          "country": "fil",
+          "name": "Cartoon"
+        },
+        {
+          "country": "es",
+          "name": "Dibujos animados"
+        },
+        {
+          "country": "de",
+          "name": "Karikatur"
+        }
+      ]
+    },
+    {
+      "default_name": "Caution",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Thận trọng"
+        },
+        {
+          "country": "en",
+          "name": "Caution"
+        },
+        {
+          "country": "pt",
+          "name": "Cuidado"
+        },
+        {
+          "country": "ko",
+          "name": "주의"
+        },
+        {
+          "country": "ja",
+          "name": "注意"
+        },
+        {
+          "country": "in",
+          "name": "Peringatan"
+        },
+        {
+          "country": "fr",
+          "name": "Mise en garde"
+        },
+        {
+          "country": "fil",
+          "name": "Pag-iingat"
+        },
+        {
+          "country": "es",
+          "name": "Precaución"
+        },
+        {
+          "country": "de",
+          "name": "Vorsicht"
+        }
+      ]
+    },
+    {
+      "default_name": "Chef",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Bếp trưởng"
+        },
+        {
+          "country": "en",
+          "name": "Chef"
+        },
+        {
+          "country": "pt",
+          "name": "Chefe de cozinha"
+        },
+        {
+          "country": "ko",
+          "name": "요리사"
+        },
+        {
+          "country": "ja",
+          "name": "シェフ"
+        },
+        {
+          "country": "in",
+          "name": "Koki"
+        },
+        {
+          "country": "fr",
+          "name": "Chef"
+        },
+        {
+          "country": "fil",
+          "name": "Chef"
+        },
+        {
+          "country": "es",
+          "name": "Cocinero"
+        },
+        {
+          "country": "de",
+          "name": "Koch"
+        }
+      ]
+    },
+    {
+      "default_name": "Church",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nhà thờ"
+        },
+        {
+          "country": "en",
+          "name": "Church"
+        },
+        {
+          "country": "pt",
+          "name": "Igreja"
+        },
+        {
+          "country": "ko",
+          "name": "교회에"
+        },
+        {
+          "country": "ja",
+          "name": "教会"
+        },
+        {
+          "country": "in",
+          "name": "Gereja"
+        },
+        {
+          "country": "fr",
+          "name": "Église"
+        },
+        {
+          "country": "fil",
+          "name": "Simbahan"
+        },
+        {
+          "country": "es",
+          "name": "Iglesia"
+        },
+        {
+          "country": "de",
+          "name": "Kirche"
+        }
+      ]
+    },
+    {
+      "default_name": "Circle",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Vòng tròn"
+        },
+        {
+          "country": "en",
+          "name": "Circle"
+        },
+        {
+          "country": "pt",
+          "name": "Círculo"
+        },
+        {
+          "country": "ko",
+          "name": "원"
+        },
+        {
+          "country": "ja",
+          "name": "サークル"
+        },
+        {
+          "country": "in",
+          "name": "Lingkaran"
+        },
+        {
+          "country": "fr",
+          "name": "Cercle"
+        },
+        {
+          "country": "fil",
+          "name": "Bilog"
+        },
+        {
+          "country": "es",
+          "name": "Circulo"
+        },
+        {
+          "country": "de",
+          "name": "Kreis"
+        }
+      ]
+    },
+    {
+      "default_name": "Coffee",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cà phê"
+        },
+        {
+          "country": "en",
+          "name": "Coffee"
+        },
+        {
+          "country": "pt",
+          "name": "Café"
+        },
+        {
+          "country": "ko",
+          "name": "커피"
+        },
+        {
+          "country": "ja",
+          "name": "コーヒー"
+        },
+        {
+          "country": "in",
+          "name": "kopi"
+        },
+        {
+          "country": "fr",
+          "name": "Café"
+        },
+        {
+          "country": "fil",
+          "name": "Kape"
+        },
+        {
+          "country": "es",
+          "name": "Café"
+        },
+        {
+          "country": "de",
+          "name": "Kaffee"
+        }
+      ]
+    },
+    {
+      "default_name": "Colourful",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đầy màu sắc"
+        },
+        {
+          "country": "en",
+          "name": "Colourful"
+        },
+        {
+          "country": "pt",
+          "name": "Colorido"
+        },
+        {
+          "country": "ko",
+          "name": "화려한"
+        },
+        {
+          "country": "ja",
+          "name": "カラフル"
+        },
+        {
+          "country": "in",
+          "name": "Berwarna-warni"
+        },
+        {
+          "country": "fr",
+          "name": "Coloré"
+        },
+        {
+          "country": "fil",
+          "name": "Makulay"
+        },
+        {
+          "country": "es",
+          "name": "Vistoso"
+        },
+        {
+          "country": "de",
+          "name": "Bunt"
+        }
+      ]
+    },
+    {
+      "default_name": "Common",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Chung"
+        },
+        {
+          "country": "en",
+          "name": "Common"
+        },
+        {
+          "country": "pt",
+          "name": "Comum"
+        },
+        {
+          "country": "ko",
+          "name": "흔한"
+        },
+        {
+          "country": "ja",
+          "name": "一般"
+        },
+        {
+          "country": "in",
+          "name": "Umum"
+        },
+        {
+          "country": "fr",
+          "name": "Commun"
+        },
+        {
+          "country": "fil",
+          "name": "Karaniwan"
+        },
+        {
+          "country": "es",
+          "name": "Común"
+        },
+        {
+          "country": "de",
+          "name": "Verbreitet"
+        }
+      ]
+    },
+    {
+      "default_name": "Computer Class",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Lớp học máy tính"
+        },
+        {
+          "country": "en",
+          "name": "Computer Class"
+        },
+        {
+          "country": "pt",
+          "name": "Aula de informática"
+        },
+        {
+          "country": "ko",
+          "name": "컴퓨터 수업"
+        },
+        {
+          "country": "ja",
+          "name": "コンピュータクラス"
+        },
+        {
+          "country": "in",
+          "name": "Kelas Komputer"
+        },
+        {
+          "country": "fr",
+          "name": "Cours d'informatique"
+        },
+        {
+          "country": "fil",
+          "name": "Klase sa Computer"
+        },
+        {
+          "country": "es",
+          "name": "Clase de computación"
+        },
+        {
+          "country": "de",
+          "name": "Computer Klasse"
+        }
+      ]
+    },
+    {
+      "default_name": "Construction",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Xây dựng"
+        },
+        {
+          "country": "en",
+          "name": "Construction"
+        },
+        {
+          "country": "pt",
+          "name": "Construção"
+        },
+        {
+          "country": "ko",
+          "name": "구성"
+        },
+        {
+          "country": "ja",
+          "name": "建設"
+        },
+        {
+          "country": "in",
+          "name": "Konstruksi"
+        },
+        {
+          "country": "fr",
+          "name": "Construction"
+        },
+        {
+          "country": "fil",
+          "name": "Konstruksyon"
+        },
+        {
+          "country": "es",
+          "name": "Construcción"
+        },
+        {
+          "country": "de",
+          "name": "Konstruktion"
+        }
+      ]
+    },
+    {
+      "default_name": "Crative",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sáng tạo"
+        },
+        {
+          "country": "en",
+          "name": "Creative"
+        },
+        {
+          "country": "pt",
+          "name": "Criativo"
+        },
+        {
+          "country": "ko",
+          "name": "크리에이티브"
+        },
+        {
+          "country": "ja",
+          "name": "クリエイティブ"
+        },
+        {
+          "country": "in",
+          "name": "Kreatif"
+        },
+        {
+          "country": "fr",
+          "name": "Créatif"
+        },
+        {
+          "country": "fil",
+          "name": "Malikhain"
+        },
+        {
+          "country": "es",
+          "name": "Creativo"
+        },
+        {
+          "country": "de",
+          "name": "Kreativ"
+        }
+      ]
+    },
+    {
+      "default_name": "Crown",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Vương miện"
+        },
+        {
+          "country": "en",
+          "name": "Crown"
+        },
+        {
+          "country": "pt",
+          "name": "coroa"
+        },
+        {
+          "country": "ko",
+          "name": "왕관"
+        },
+        {
+          "country": "ja",
+          "name": "クラウン"
+        },
+        {
+          "country": "in",
+          "name": "Mahkota"
+        },
+        {
+          "country": "fr",
+          "name": "couronner"
+        },
+        {
+          "country": "fil",
+          "name": "Korona"
+        },
+        {
+          "country": "es",
+          "name": "corona"
+        },
+        {
+          "country": "de",
+          "name": "Krone"
+        }
+      ]
+    },
+    {
+      "default_name": "Daily",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "hằng ngày"
+        },
+        {
+          "country": "en",
+          "name": "Daily"
+        },
+        {
+          "country": "pt",
+          "name": "Diariamente"
+        },
+        {
+          "country": "ko",
+          "name": "매일"
+        },
+        {
+          "country": "ja",
+          "name": "毎日"
+        },
+        {
+          "country": "in",
+          "name": "Harian"
+        },
+        {
+          "country": "fr",
+          "name": "Quotidien"
+        },
+        {
+          "country": "fil",
+          "name": "Araw-araw"
+        },
+        {
+          "country": "es",
+          "name": "Diario"
+        },
+        {
+          "country": "de",
+          "name": "Täglich"
+        }
+      ]
+    },
+    {
+      "default_name": "Dangerous",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nguy hiểm"
+        },
+        {
+          "country": "en",
+          "name": "Dangerous"
+        },
+        {
+          "country": "pt",
+          "name": "Perigoso"
+        },
+        {
+          "country": "ko",
+          "name": "위험한"
+        },
+        {
+          "country": "ja",
+          "name": "危険な"
+        },
+        {
+          "country": "in",
+          "name": "Berbahaya"
+        },
+        {
+          "country": "fr",
+          "name": "Dangereux"
+        },
+        {
+          "country": "fil",
+          "name": "Mapanganib"
+        },
+        {
+          "country": "es",
+          "name": "Peligroso"
+        },
+        {
+          "country": "de",
+          "name": "Gefährlich"
+        }
+      ]
+    },
+    {
+      "default_name": "Decoration",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trang trí"
+        },
+        {
+          "country": "en",
+          "name": "Decoration"
+        },
+        {
+          "country": "pt",
+          "name": "Decoração"
+        },
+        {
+          "country": "ko",
+          "name": "장식"
+        },
+        {
+          "country": "ja",
+          "name": "装飾"
+        },
+        {
+          "country": "in",
+          "name": "Dekorasi"
+        },
+        {
+          "country": "fr",
+          "name": "Décoration"
+        },
+        {
+          "country": "fil",
+          "name": "Palamuti"
+        },
+        {
+          "country": "es",
+          "name": "Decoración"
+        },
+        {
+          "country": "de",
+          "name": "Dekoration"
+        }
+      ]
+    },
+    {
+      "default_name": "Development",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Phát triển"
+        },
+        {
+          "country": "en",
+          "name": "Development"
+        },
+        {
+          "country": "pt",
+          "name": "Desenvolvimento"
+        },
+        {
+          "country": "ko",
+          "name": "개발"
+        },
+        {
+          "country": "ja",
+          "name": "開発"
+        },
+        {
+          "country": "in",
+          "name": "Pengembangan"
+        },
+        {
+          "country": "fr",
+          "name": "Développement"
+        },
+        {
+          "country": "fil",
+          "name": "Kaunlaran"
+        },
+        {
+          "country": "es",
+          "name": "Desarrollo"
+        },
+        {
+          "country": "de",
+          "name": "Entwicklung"
+        }
+      ]
+    },
+    {
+      "default_name": "Education",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Giáo dục"
+        },
+        {
+          "country": "en",
+          "name": "Education"
+        },
+        {
+          "country": "pt",
+          "name": "Educação"
+        },
+        {
+          "country": "ko",
+          "name": "교육"
+        },
+        {
+          "country": "ja",
+          "name": "教育"
+        },
+        {
+          "country": "in",
+          "name": "pendidikan"
+        },
+        {
+          "country": "fr",
+          "name": "Éducation"
+        },
+        {
+          "country": "fil",
+          "name": "Edukasyon"
+        },
+        {
+          "country": "es",
+          "name": "Educación"
+        },
+        {
+          "country": "de",
+          "name": "Bildung"
+        }
+      ]
+    },
+    {
+      "default_name": "Election",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cuộc bầu cử"
+        },
+        {
+          "country": "en",
+          "name": "Election"
+        },
+        {
+          "country": "pt",
+          "name": "Eleição"
+        },
+        {
+          "country": "ko",
+          "name": "선거"
+        },
+        {
+          "country": "ja",
+          "name": "選挙"
+        },
+        {
+          "country": "in",
+          "name": "Pemilihan"
+        },
+        {
+          "country": "fr",
+          "name": "Élection"
+        },
+        {
+          "country": "fil",
+          "name": "Eleksyon"
+        },
+        {
+          "country": "es",
+          "name": "Elección"
+        },
+        {
+          "country": "de",
+          "name": "Wahl"
+        }
+      ]
+    },
+    {
+      "default_name": "Emoji",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Biểu tượng cảm xúc"
+        },
+        {
+          "country": "en",
+          "name": "Emoji"
+        },
+        {
+          "country": "pt",
+          "name": "Emoji"
+        },
+        {
+          "country": "ko",
+          "name": "이모티콘"
+        },
+        {
+          "country": "ja",
+          "name": "絵文字"
+        },
+        {
+          "country": "in",
+          "name": "Emoticon"
+        },
+        {
+          "country": "fr",
+          "name": "Emoji"
+        },
+        {
+          "country": "fil",
+          "name": "Emoji"
+        },
+        {
+          "country": "es",
+          "name": "Emoji"
+        },
+        {
+          "country": "de",
+          "name": "Emoji"
+        }
+      ]
+    },
+    {
+      "default_name": "Entertainment",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sự giải trí"
+        },
+        {
+          "country": "en",
+          "name": "Entertainment"
+        },
+        {
+          "country": "pt",
+          "name": "Entretenimento"
+        },
+        {
+          "country": "ko",
+          "name": "환대"
+        },
+        {
+          "country": "ja",
+          "name": "エンターテインメント"
+        },
+        {
+          "country": "in",
+          "name": "Hiburan"
+        },
+        {
+          "country": "fr",
+          "name": "Divertissement"
+        },
+        {
+          "country": "fil",
+          "name": "Aliwan"
+        },
+        {
+          "country": "es",
+          "name": "Entretenimiento"
+        },
+        {
+          "country": "de",
+          "name": "Unterhaltung"
+        }
+      ]
+    },
+    {
+      "default_name": "Event",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "sự kiện"
+        },
+        {
+          "country": "en",
+          "name": "Event"
+        },
+        {
+          "country": "pt",
+          "name": "Evento"
+        },
+        {
+          "country": "ko",
+          "name": "행사"
+        },
+        {
+          "country": "ja",
+          "name": "イベント"
+        },
+        {
+          "country": "in",
+          "name": "Peristiwa"
+        },
+        {
+          "country": "fr",
+          "name": "Événement"
+        },
+        {
+          "country": "fil",
+          "name": "Kaganapan"
+        },
+        {
+          "country": "es",
+          "name": "Evento"
+        },
+        {
+          "country": "de",
+          "name": "Veranstaltung"
+        }
+      ]
+    },
+    {
+      "default_name": "Farm",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nông trại"
+        },
+        {
+          "country": "en",
+          "name": "Farm"
+        },
+        {
+          "country": "pt",
+          "name": "Fazenda"
+        },
+        {
+          "country": "ko",
+          "name": "농장"
+        },
+        {
+          "country": "ja",
+          "name": "ファーム"
+        },
+        {
+          "country": "in",
+          "name": "Tanah pertanian"
+        },
+        {
+          "country": "fr",
+          "name": "Cultiver"
+        },
+        {
+          "country": "fil",
+          "name": "Sakahan"
+        },
+        {
+          "country": "es",
+          "name": "Granja"
+        },
+        {
+          "country": "de",
+          "name": "Bauernhof"
+        }
+      ]
+    },
+    {
+      "default_name": "Fashion",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Thời trang"
+        },
+        {
+          "country": "en",
+          "name": "Fashion"
+        },
+        {
+          "country": "pt",
+          "name": "Moda"
+        },
+        {
+          "country": "ko",
+          "name": "패션"
+        },
+        {
+          "country": "ja",
+          "name": "ファッション"
+        },
+        {
+          "country": "in",
+          "name": "Mode"
+        },
+        {
+          "country": "fr",
+          "name": "Mode"
+        },
+        {
+          "country": "fil",
+          "name": "Fashion"
+        },
+        {
+          "country": "es",
+          "name": "Moda"
+        },
+        {
+          "country": "de",
+          "name": "Mode"
+        }
+      ]
+    },
+    {
+      "default_name": "Feather",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Lông vũ"
+        },
+        {
+          "country": "en",
+          "name": "Feather"
+        },
+        {
+          "country": "pt",
+          "name": "Pena"
+        },
+        {
+          "country": "ko",
+          "name": "깃"
+        },
+        {
+          "country": "ja",
+          "name": "フェザー"
+        },
+        {
+          "country": "in",
+          "name": "Bulu"
+        },
+        {
+          "country": "fr",
+          "name": "Plume"
+        },
+        {
+          "country": "fil",
+          "name": "Balahibo"
+        },
+        {
+          "country": "es",
+          "name": "Pluma"
+        },
+        {
+          "country": "de",
+          "name": "Feder"
+        }
+      ]
+    },
+    {
+      "default_name": "Fish",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cá"
+        },
+        {
+          "country": "en",
+          "name": "Fish"
+        },
+        {
+          "country": "pt",
+          "name": "Peixe"
+        },
+        {
+          "country": "ko",
+          "name": "물고기"
+        },
+        {
+          "country": "ja",
+          "name": "魚"
+        },
+        {
+          "country": "in",
+          "name": "Ikan"
+        },
+        {
+          "country": "fr",
+          "name": "Poisson"
+        },
+        {
+          "country": "fil",
+          "name": "Isda"
+        },
+        {
+          "country": "es",
+          "name": "Pez"
+        },
+        {
+          "country": "de",
+          "name": "Fisch"
+        }
+      ]
+    },
+    {
+      "default_name": "Flag",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cờ"
+        },
+        {
+          "country": "en",
+          "name": "Flag"
+        },
+        {
+          "country": "pt",
+          "name": "Bandeira"
+        },
+        {
+          "country": "ko",
+          "name": "깃발"
+        },
+        {
+          "country": "ja",
+          "name": "国旗"
+        },
+        {
+          "country": "in",
+          "name": "Bendera"
+        },
+        {
+          "country": "fr",
+          "name": "Drapeau"
+        },
+        {
+          "country": "fil",
+          "name": "mga watawat"
+        },
+        {
+          "country": "es",
+          "name": "Bandera"
+        },
+        {
+          "country": "de",
+          "name": "Flagge"
+        }
+      ]
+    },
+    {
+      "default_name": "Flowers",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Những bông hoa"
+        },
+        {
+          "country": "en",
+          "name": "Flowers"
+        },
+        {
+          "country": "pt",
+          "name": "Flores"
+        },
+        {
+          "country": "ko",
+          "name": "꽃들"
+        },
+        {
+          "country": "ja",
+          "name": "フラワーズ"
+        },
+        {
+          "country": "in",
+          "name": "Bunga-bunga"
+        },
+        {
+          "country": "fr",
+          "name": "Fleurs"
+        },
+        {
+          "country": "fil",
+          "name": "Mga Bulaklak"
+        },
+        {
+          "country": "es",
+          "name": "Flores"
+        },
+        {
+          "country": "de",
+          "name": "Blumen"
+        }
+      ]
+    },
+    {
+      "default_name": "Food",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Món ăn"
+        },
+        {
+          "country": "en",
+          "name": "Food"
+        },
+        {
+          "country": "pt",
+          "name": "Comida"
+        },
+        {
+          "country": "ko",
+          "name": "음식"
+        },
+        {
+          "country": "ja",
+          "name": "食物"
+        },
+        {
+          "country": "in",
+          "name": "Makanan"
+        },
+        {
+          "country": "fr",
+          "name": "Aliments"
+        },
+        {
+          "country": "fil",
+          "name": "Pagkain"
+        },
+        {
+          "country": "es",
+          "name": "Comida"
+        },
+        {
+          "country": "de",
+          "name": "Essen"
+        }
+      ]
+    },
+    {
+      "default_name": "Fooddrink",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đồ ăn thức uống"
+        },
+        {
+          "country": "en",
+          "name": "Fooddrink"
+        },
+        {
+          "country": "pt",
+          "name": "Alimento bebida"
+        },
+        {
+          "country": "ko",
+          "name": "식음료"
+        },
+        {
+          "country": "ja",
+          "name": "食べ物飲み物"
+        },
+        {
+          "country": "in",
+          "name": "Makanan Minuman"
+        },
+        {
+          "country": "fr",
+          "name": "Nourriture boisson"
+        },
+        {
+          "country": "fil",
+          "name": "Pagkain Inumin"
+        },
+        {
+          "country": "es",
+          "name": "Bebida alimenticia"
+        },
+        {
+          "country": "de",
+          "name": "Essen trinken"
+        }
+      ]
+    },
+    {
+      "default_name": "Furniture",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đồ nội thất"
+        },
+        {
+          "country": "en",
+          "name": "Furniture"
+        },
+        {
+          "country": "pt",
+          "name": "Mobília"
+        },
+        {
+          "country": "ko",
+          "name": "가구"
+        },
+        {
+          "country": "ja",
+          "name": "家具"
+        },
+        {
+          "country": "in",
+          "name": "Mebel"
+        },
+        {
+          "country": "fr",
+          "name": "Meubles"
+        },
+        {
+          "country": "fil",
+          "name": "Muwebles"
+        },
+        {
+          "country": "es",
+          "name": "Mueble"
+        },
+        {
+          "country": "de",
+          "name": "Möbel"
+        }
+      ]
+    },
+    {
+      "default_name": "Game",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trò chơi 1"
+        },
+        {
+          "country": "en",
+          "name": "Game 1"
+        },
+        {
+          "country": "pt",
+          "name": "jogos 1"
+        },
+        {
+          "country": "ko",
+          "name": "경기 1"
+        },
+        {
+          "country": "ja",
+          "name": "ゲーム 1"
+        },
+        {
+          "country": "in",
+          "name": "Permainan 1"
+        },
+        {
+          "country": "fr",
+          "name": "Jeu 1"
+        },
+        {
+          "country": "fil",
+          "name": "Laro 1"
+        },
+        {
+          "country": "es",
+          "name": "Juego 1"
+        },
+        {
+          "country": "de",
+          "name": "Spiel 1"
+        }
+      ]
+    },
+    {
+      "default_name": "Games",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trò chơi 2"
+        },
+        {
+          "country": "en",
+          "name": "Game 2"
+        },
+        {
+          "country": "pt",
+          "name": "jogos 2"
+        },
+        {
+          "country": "ko",
+          "name": "경기 2"
+        },
+        {
+          "country": "ja",
+          "name": "ゲーム 2"
+        },
+        {
+          "country": "in",
+          "name": "Permainan 2"
+        },
+        {
+          "country": "fr",
+          "name": "Jeu 2"
+        },
+        {
+          "country": "fil",
+          "name": "Laro 2"
+        },
+        {
+          "country": "es",
+          "name": "Juego 2"
+        },
+        {
+          "country": "de",
+          "name": "Spiel 2"
+        }
+      ]
+    },
+    {
+      "default_name": "Gun",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Súng"
+        },
+        {
+          "country": "en",
+          "name": "Gun"
+        },
+        {
+          "country": "pt",
+          "name": "Pistola"
+        },
+        {
+          "country": "ko",
+          "name": "총"
+        },
+        {
+          "country": "ja",
+          "name": "銃"
+        },
+        {
+          "country": "in",
+          "name": "Senjata"
+        },
+        {
+          "country": "fr",
+          "name": "Arme à feu"
+        },
+        {
+          "country": "fil",
+          "name": "Baril"
+        },
+        {
+          "country": "es",
+          "name": "Pistola"
+        },
+        {
+          "country": "de",
+          "name": "Gewehr"
+        }
+      ]
+    },
+    {
+      "default_name": "Gym",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Phòng thể dục"
+        },
+        {
+          "country": "en",
+          "name": "Gym"
+        },
+        {
+          "country": "pt",
+          "name": "Ginásio"
+        },
+        {
+          "country": "ko",
+          "name": "헬스장"
+        },
+        {
+          "country": "ja",
+          "name": "ジム"
+        },
+        {
+          "country": "in",
+          "name": "Gym"
+        },
+        {
+          "country": "fr",
+          "name": "Gym"
+        },
+        {
+          "country": "fil",
+          "name": "Gym"
+        },
+        {
+          "country": "es",
+          "name": "Gimnasio"
+        },
+        {
+          "country": "de",
+          "name": "Fitnessstudio"
+        }
+      ]
+    },
+    {
+      "default_name": "Hair Style",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Kiểu tóc"
+        },
+        {
+          "country": "en",
+          "name": "Hair Style"
+        },
+        {
+          "country": "pt",
+          "name": "Penteado"
+        },
+        {
+          "country": "ko",
+          "name": "헤어 스타일"
+        },
+        {
+          "country": "ja",
+          "name": "ヘアスタイル"
+        },
+        {
+          "country": "in",
+          "name": "Gaya Rambut"
+        },
+        {
+          "country": "fr",
+          "name": "Style de cheveux"
+        },
+        {
+          "country": "fil",
+          "name": "Estilo ng Buhok"
+        },
+        {
+          "country": "es",
+          "name": "Estilo de pelo"
+        },
+        {
+          "country": "de",
+          "name": "Frisur"
+        }
+      ]
+    },
+    {
+      "default_name": "Hand",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Tay"
+        },
+        {
+          "country": "en",
+          "name": "Hand"
+        },
+        {
+          "country": "pt",
+          "name": "Mão"
+        },
+        {
+          "country": "ko",
+          "name": "손"
+        },
+        {
+          "country": "ja",
+          "name": "手"
+        },
+        {
+          "country": "in",
+          "name": "Tangan"
+        },
+        {
+          "country": "fr",
+          "name": "Main"
+        },
+        {
+          "country": "fil",
+          "name": "Kamay"
+        },
+        {
+          "country": "es",
+          "name": "Mano"
+        },
+        {
+          "country": "de",
+          "name": "Hand"
+        }
+      ]
+    },
+    {
+      "default_name": "Health",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sức khỏe"
+        },
+        {
+          "country": "en",
+          "name": "Health"
+        },
+        {
+          "country": "pt",
+          "name": "Saúde"
+        },
+        {
+          "country": "ko",
+          "name": "건강"
+        },
+        {
+          "country": "ja",
+          "name": "健康"
+        },
+        {
+          "country": "in",
+          "name": "Kesehatan"
+        },
+        {
+          "country": "fr",
+          "name": "Santé"
+        },
+        {
+          "country": "fil",
+          "name": "Kalusugan"
+        },
+        {
+          "country": "es",
+          "name": "Salud"
+        },
+        {
+          "country": "de",
+          "name": "Gesundheit"
+        }
+      ]
+    },
+    {
+      "default_name": "Hearts",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trái tim"
+        },
+        {
+          "country": "en",
+          "name": "Hearts"
+        },
+        {
+          "country": "pt",
+          "name": "Corações"
+        },
+        {
+          "country": "ko",
+          "name": "하트"
+        },
+        {
+          "country": "ja",
+          "name": "ハーツ"
+        },
+        {
+          "country": "in",
+          "name": "Hati"
+        },
+        {
+          "country": "fr",
+          "name": "Cœurs"
+        },
+        {
+          "country": "fil",
+          "name": "Mga puso"
+        },
+        {
+          "country": "es",
+          "name": "Corazones"
+        },
+        {
+          "country": "de",
+          "name": "Herzen"
+        }
+      ]
+    },
+    {
+      "default_name": "Holiday",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ngày lễ"
+        },
+        {
+          "country": "en",
+          "name": "Holiday"
+        },
+        {
+          "country": "pt",
+          "name": "Feriado"
+        },
+        {
+          "country": "ko",
+          "name": "휴일"
+        },
+        {
+          "country": "ja",
+          "name": "休日"
+        },
+        {
+          "country": "in",
+          "name": "Liburan"
+        },
+        {
+          "country": "fr",
+          "name": "Vacances"
+        },
+        {
+          "country": "fil",
+          "name": "Holiday"
+        },
+        {
+          "country": "es",
+          "name": "Vacaciones"
+        },
+        {
+          "country": "de",
+          "name": "Urlaub"
+        }
+      ]
+    },
+    {
+      "default_name": "House",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nhà ở"
+        },
+        {
+          "country": "en",
+          "name": "House"
+        },
+        {
+          "country": "pt",
+          "name": "casa"
+        },
+        {
+          "country": "ko",
+          "name": "집"
+        },
+        {
+          "country": "ja",
+          "name": "家"
+        },
+        {
+          "country": "in",
+          "name": "Rumah"
+        },
+        {
+          "country": "fr",
+          "name": "loger"
+        },
+        {
+          "country": "fil",
+          "name": "Bahay"
+        },
+        {
+          "country": "es",
+          "name": "casa"
+        },
+        {
+          "country": "de",
+          "name": "Haus"
+        }
+      ]
+    },
+    {
+      "default_name": "Iconic",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Mang tính biểu tượng"
+        },
+        {
+          "country": "en",
+          "name": "Iconic"
+        },
+        {
+          "country": "pt",
+          "name": "Icônico"
+        },
+        {
+          "country": "ko",
+          "name": "상의"
+        },
+        {
+          "country": "ja",
+          "name": "アイコニック"
+        },
+        {
+          "country": "in",
+          "name": "Ikonik"
+        },
+        {
+          "country": "fr",
+          "name": "Iconique"
+        },
+        {
+          "country": "fil",
+          "name": "Iconic"
+        },
+        {
+          "country": "es",
+          "name": "Icónico"
+        },
+        {
+          "country": "de",
+          "name": "Kultig"
+        }
+      ]
+    },
+    {
+      "default_name": "Industry",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ngành công nghiệp"
+        },
+        {
+          "country": "en",
+          "name": "Industry"
+        },
+        {
+          "country": "pt",
+          "name": "Indústria"
+        },
+        {
+          "country": "ko",
+          "name": "산업"
+        },
+        {
+          "country": "ja",
+          "name": "業界"
+        },
+        {
+          "country": "in",
+          "name": "Industri"
+        },
+        {
+          "country": "fr",
+          "name": "Industrie"
+        },
+        {
+          "country": "fil",
+          "name": "Industriya"
+        },
+        {
+          "country": "es",
+          "name": "Industria"
+        },
+        {
+          "country": "de",
+          "name": "Industrie"
+        }
+      ]
+    },
+    {
+      "default_name": "Infinity",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "vô cực"
+        },
+        {
+          "country": "en",
+          "name": "Infinity"
+        },
+        {
+          "country": "pt",
+          "name": "Infinidade"
+        },
+        {
+          "country": "ko",
+          "name": "무한대"
+        },
+        {
+          "country": "ja",
+          "name": "インフィニティ"
+        },
+        {
+          "country": "in",
+          "name": "Infinity"
+        },
+        {
+          "country": "fr",
+          "name": "Infini"
+        },
+        {
+          "country": "fil",
+          "name": "Kawalang-hanggan"
+        },
+        {
+          "country": "es",
+          "name": "infinito"
+        },
+        {
+          "country": "de",
+          "name": "Unendlichkeit"
+        }
+      ]
+    },
+    {
+      "default_name": "Innovative Idea",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ý tưởng sáng tạo"
+        },
+        {
+          "country": "en",
+          "name": "Innovative Idea"
+        },
+        {
+          "country": "pt",
+          "name": "Ideia inovadora"
+        },
+        {
+          "country": "ko",
+          "name": "혁신적인 아이디어"
+        },
+        {
+          "country": "ja",
+          "name": "革新的なアイデア"
+        },
+        {
+          "country": "in",
+          "name": "Ide Inovatif"
+        },
+        {
+          "country": "fr",
+          "name": "Idée innovante"
+        },
+        {
+          "country": "fil",
+          "name": "Makabagong Idea"
+        },
+        {
+          "country": "es",
+          "name": "Idea inovadora"
+        },
+        {
+          "country": "de",
+          "name": "Innovative Idee"
+        }
+      ]
+    },
+    {
+      "default_name": "Jewellery",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đồ kim hoàn"
+        },
+        {
+          "country": "en",
+          "name": "Jewellery"
+        },
+        {
+          "country": "pt",
+          "name": "Jóias"
+        },
+        {
+          "country": "ko",
+          "name": "보석류"
+        },
+        {
+          "country": "ja",
+          "name": "ジュエリー"
+        },
+        {
+          "country": "in",
+          "name": "Perhiasan"
+        },
+        {
+          "country": "fr",
+          "name": "Bijoux"
+        },
+        {
+          "country": "fil",
+          "name": "Alahas"
+        },
+        {
+          "country": "es",
+          "name": "Joyería"
+        },
+        {
+          "country": "de",
+          "name": "Schmuck"
+        }
+      ]
+    },
+    {
+      "default_name": "Kids",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trẻ em"
+        },
+        {
+          "country": "en",
+          "name": "Kids"
+        },
+        {
+          "country": "pt",
+          "name": "Crianças"
+        },
+        {
+          "country": "ko",
+          "name": "키즈"
+        },
+        {
+          "country": "ja",
+          "name": "キッズ"
+        },
+        {
+          "country": "in",
+          "name": "Anak-anak"
+        },
+        {
+          "country": "fr",
+          "name": "Enfants"
+        },
+        {
+          "country": "fil",
+          "name": "Mga bata"
+        },
+        {
+          "country": "es",
+          "name": "Niños"
+        },
+        {
+          "country": "de",
+          "name": "Kinder"
+        }
+      ]
+    },
+    {
+      "default_name": "Kids Alphabet",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Các chữ cái dành cho trẻ em"
+        },
+        {
+          "country": "en",
+          "name": "Kids Alphabet"
+        },
+        {
+          "country": "pt",
+          "name": "Alfabeto Infantil"
+        },
+        {
+          "country": "ko",
+          "name": "키즈 알파벳"
+        },
+        {
+          "country": "ja",
+          "name": "キッズアルファベット"
+        },
+        {
+          "country": "in",
+          "name": "Alfabet Anak"
+        },
+        {
+          "country": "fr",
+          "name": "Alphabet pour enfants"
+        },
+        {
+          "country": "fil",
+          "name": "Alphabet ng Mga Bata"
+        },
+        {
+          "country": "es",
+          "name": "Alfabeto para niños"
+        },
+        {
+          "country": "de",
+          "name": "Kinderalphabet"
+        }
+      ]
+    },
+    {
+      "default_name": "Kitchen",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Phòng bếp"
+        },
+        {
+          "country": "en",
+          "name": "Kitchen"
+        },
+        {
+          "country": "pt",
+          "name": "Cozinha"
+        },
+        {
+          "country": "ko",
+          "name": "부엌"
+        },
+        {
+          "country": "ja",
+          "name": "キッチン"
+        },
+        {
+          "country": "in",
+          "name": "Dapur"
+        },
+        {
+          "country": "fr",
+          "name": "Cuisine"
+        },
+        {
+          "country": "fil",
+          "name": "Kusina"
+        },
+        {
+          "country": "es",
+          "name": "Cocina"
+        },
+        {
+          "country": "de",
+          "name": "Küche"
+        }
+      ]
+    },
+    {
+      "default_name": "Law",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Pháp luật"
+        },
+        {
+          "country": "en",
+          "name": "Law"
+        },
+        {
+          "country": "pt",
+          "name": "Lei"
+        },
+        {
+          "country": "ko",
+          "name": "법"
+        },
+        {
+          "country": "ja",
+          "name": "法律"
+        },
+        {
+          "country": "in",
+          "name": "Hukum"
+        },
+        {
+          "country": "fr",
+          "name": "Droit"
+        },
+        {
+          "country": "fil",
+          "name": "Batas"
+        },
+        {
+          "country": "es",
+          "name": "Ley"
+        },
+        {
+          "country": "de",
+          "name": "Recht"
+        }
+      ]
+    },
+    {
+      "default_name": "Leaves",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Lá"
+        },
+        {
+          "country": "en",
+          "name": "Leaves"
+        },
+        {
+          "country": "pt",
+          "name": "Folhas"
+        },
+        {
+          "country": "ko",
+          "name": "이파리"
+        },
+        {
+          "country": "ja",
+          "name": "葉"
+        },
+        {
+          "country": "in",
+          "name": "Daun-daun"
+        },
+        {
+          "country": "fr",
+          "name": "Feuilles"
+        },
+        {
+          "country": "fil",
+          "name": "Dahon"
+        },
+        {
+          "country": "es",
+          "name": "Sale de"
+        },
+        {
+          "country": "de",
+          "name": "Blätter"
+        }
+      ]
+    },
+    {
+      "default_name": "Lineal ribbons",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ruy băng tuyến tính"
+        },
+        {
+          "country": "en",
+          "name": "Lineal ribbons"
+        },
+        {
+          "country": "pt",
+          "name": "Fitas lineares"
+        },
+        {
+          "country": "ko",
+          "name": "직계 리본"
+        },
+        {
+          "country": "ja",
+          "name": "直系リボン"
+        },
+        {
+          "country": "in",
+          "name": "Pita garis"
+        },
+        {
+          "country": "fr",
+          "name": "Rubans linéaires"
+        },
+        {
+          "country": "fil",
+          "name": "Mga linya ng laso"
+        },
+        {
+          "country": "es",
+          "name": "Cintas lineales"
+        },
+        {
+          "country": "de",
+          "name": "Lineare Bänder"
+        }
+      ]
+    },
+    {
+      "default_name": "Love",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Yêu và quý"
+        },
+        {
+          "country": "en",
+          "name": "Love"
+        },
+        {
+          "country": "pt",
+          "name": "Amar"
+        },
+        {
+          "country": "ko",
+          "name": "사랑"
+        },
+        {
+          "country": "ja",
+          "name": "愛"
+        },
+        {
+          "country": "in",
+          "name": "Cinta"
+        },
+        {
+          "country": "fr",
+          "name": "Aimer"
+        },
+        {
+          "country": "fil",
+          "name": "Pag-ibig"
+        },
+        {
+          "country": "es",
+          "name": "Amor"
+        },
+        {
+          "country": "de",
+          "name": "Liebe"
+        }
+      ]
+    },
+    {
+      "default_name": "Makeup",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trang điểm"
+        },
+        {
+          "country": "en",
+          "name": "Makeup"
+        },
+        {
+          "country": "pt",
+          "name": "Maquiagem"
+        },
+        {
+          "country": "ko",
+          "name": "구성하다"
+        },
+        {
+          "country": "ja",
+          "name": "化粧"
+        },
+        {
+          "country": "in",
+          "name": "Dandan"
+        },
+        {
+          "country": "fr",
+          "name": "Se réconcilier"
+        },
+        {
+          "country": "fil",
+          "name": "Makeup"
+        },
+        {
+          "country": "es",
+          "name": "Maquillaje"
+        },
+        {
+          "country": "de",
+          "name": "bilden"
+        }
+      ]
+    },
+    {
+      "default_name": "Management",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sự quản lý"
+        },
+        {
+          "country": "en",
+          "name": "Management"
+        },
+        {
+          "country": "pt",
+          "name": "Gestão"
+        },
+        {
+          "country": "ko",
+          "name": "조치"
+        },
+        {
+          "country": "ja",
+          "name": "管理"
+        },
+        {
+          "country": "in",
+          "name": "Pengelolaan"
+        },
+        {
+          "country": "fr",
+          "name": "Gestion"
+        },
+        {
+          "country": "fil",
+          "name": "Pamamahala"
+        },
+        {
+          "country": "es",
+          "name": "administración"
+        },
+        {
+          "country": "de",
+          "name": "Management"
+        }
+      ]
+    },
+    {
+      "default_name": "Marketing",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Tiếp thị"
+        },
+        {
+          "country": "en",
+          "name": "Marketing"
+        },
+        {
+          "country": "pt",
+          "name": "Marketing"
+        },
+        {
+          "country": "ko",
+          "name": "마케팅"
+        },
+        {
+          "country": "ja",
+          "name": "マーケティング"
+        },
+        {
+          "country": "in",
+          "name": "Pemasaran"
+        },
+        {
+          "country": "fr",
+          "name": "Commercialisation"
+        },
+        {
+          "country": "fil",
+          "name": "Marketing"
+        },
+        {
+          "country": "es",
+          "name": "Márketing"
+        },
+        {
+          "country": "de",
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "default_name": "Martial Art",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Võ thuật"
+        },
+        {
+          "country": "en",
+          "name": "Martial Art"
+        },
+        {
+          "country": "pt",
+          "name": "Artes marciais"
+        },
+        {
+          "country": "ko",
+          "name": "무술"
+        },
+        {
+          "country": "ja",
+          "name": "武道"
+        },
+        {
+          "country": "in",
+          "name": "Seni Bela Diri"
+        },
+        {
+          "country": "fr",
+          "name": "Art martial"
+        },
+        {
+          "country": "fil",
+          "name": "Martial Art"
+        },
+        {
+          "country": "es",
+          "name": "Arte marcial"
+        },
+        {
+          "country": "de",
+          "name": "Kampfkunst"
+        }
+      ]
+    },
+    {
+      "default_name": "Mascot",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Linh vật"
+        },
+        {
+          "country": "en",
+          "name": "Mascot"
+        },
+        {
+          "country": "pt",
+          "name": "Mascote"
+        },
+        {
+          "country": "ko",
+          "name": "마스코트"
+        },
+        {
+          "country": "ja",
+          "name": "マスコット"
+        },
+        {
+          "country": "in",
+          "name": "Maskot"
+        },
+        {
+          "country": "fr",
+          "name": "Mascotte"
+        },
+        {
+          "country": "fil",
+          "name": "Maskot"
+        },
+        {
+          "country": "es",
+          "name": "Mascota"
+        },
+        {
+          "country": "de",
+          "name": "Maskottchen"
+        }
+      ]
+    },
+    {
+      "default_name": "Mother",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Mẹ"
+        },
+        {
+          "country": "en",
+          "name": "Mother"
+        },
+        {
+          "country": "pt",
+          "name": "Mãe"
+        },
+        {
+          "country": "ko",
+          "name": "어머니"
+        },
+        {
+          "country": "ja",
+          "name": "母"
+        },
+        {
+          "country": "in",
+          "name": "Ibu"
+        },
+        {
+          "country": "fr",
+          "name": "Mère"
+        },
+        {
+          "country": "fil",
+          "name": "Nanay"
+        },
+        {
+          "country": "es",
+          "name": "Madre"
+        },
+        {
+          "country": "de",
+          "name": "Mutter"
+        }
+      ]
+    },
+    {
+      "default_name": "Music",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Âm nhạc"
+        },
+        {
+          "country": "en",
+          "name": "Music"
+        },
+        {
+          "country": "pt",
+          "name": "Música"
+        },
+        {
+          "country": "ko",
+          "name": "음악"
+        },
+        {
+          "country": "ja",
+          "name": "音楽"
+        },
+        {
+          "country": "in",
+          "name": "Musik"
+        },
+        {
+          "country": "fr",
+          "name": "Musique"
+        },
+        {
+          "country": "fil",
+          "name": "Musika"
+        },
+        {
+          "country": "es",
+          "name": "Música"
+        },
+        {
+          "country": "de",
+          "name": "Musik"
+        }
+      ]
+    },
+    {
+      "default_name": "Nature",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Thiên nhiên"
+        },
+        {
+          "country": "en",
+          "name": "Nature"
+        },
+        {
+          "country": "pt",
+          "name": "Natureza"
+        },
+        {
+          "country": "ko",
+          "name": "자연"
+        },
+        {
+          "country": "ja",
+          "name": "自然"
+        },
+        {
+          "country": "in",
+          "name": "Alam"
+        },
+        {
+          "country": "fr",
+          "name": "La nature"
+        },
+        {
+          "country": "fil",
+          "name": "Kalikasan"
+        },
+        {
+          "country": "es",
+          "name": "Naturaleza"
+        },
+        {
+          "country": "de",
+          "name": "Natur"
+        }
+      ]
+    },
+    {
+      "default_name": "New Abstract",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Unknow1"
+        },
+        {
+          "country": "en",
+          "name": "Unknow1"
+        },
+        {
+          "country": "pt",
+          "name": "Unknow1"
+        },
+        {
+          "country": "ko",
+          "name": "Unknow1"
+        },
+        {
+          "country": "ja",
+          "name": "Unknow1"
+        },
+        {
+          "country": "in",
+          "name": "Unknow1"
+        },
+        {
+          "country": "fr",
+          "name": "Unknow1"
+        },
+        {
+          "country": "fil",
+          "name": "Unknow1"
+        },
+        {
+          "country": "es",
+          "name": "Unknow1"
+        },
+        {
+          "country": "de",
+          "name": "Unknow1"
+        }
+      ]
+    },
+    {
+      "default_name": "Ngo",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ngô"
+        },
+        {
+          "country": "en",
+          "name": "Ngo"
+        },
+        {
+          "country": "pt",
+          "name": "Ngo"
+        },
+        {
+          "country": "ko",
+          "name": "Ngo"
+        },
+        {
+          "country": "ja",
+          "name": "Ngo"
+        },
+        {
+          "country": "in",
+          "name": "Ngo"
+        },
+        {
+          "country": "fr",
+          "name": "Ngo"
+        },
+        {
+          "country": "fil",
+          "name": "Ngo"
+        },
+        {
+          "country": "es",
+          "name": "Ngo"
+        },
+        {
+          "country": "de",
+          "name": "Ngo"
+        }
+      ]
+    },
+    {
+      "default_name": "Noel",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Giáng sinh"
+        },
+        {
+          "country": "en",
+          "name": "Christmas"
+        },
+        {
+          "country": "pt",
+          "name": "Natal"
+        },
+        {
+          "country": "ko",
+          "name": "크리스마스"
+        },
+        {
+          "country": "ja",
+          "name": "クリスマス"
+        },
+        {
+          "country": "in",
+          "name": "hari Natal"
+        },
+        {
+          "country": "fr",
+          "name": "Noël"
+        },
+        {
+          "country": "fil",
+          "name": "Pasko"
+        },
+        {
+          "country": "es",
+          "name": "Navidad"
+        },
+        {
+          "country": "de",
+          "name": "Christmas"
+        }
+      ]
+    },
+    {
+      "default_name": "Online Shop",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cửa hàng trực tuyến"
+        },
+        {
+          "country": "en",
+          "name": "Online Shop"
+        },
+        {
+          "country": "pt",
+          "name": "Loja online"
+        },
+        {
+          "country": "ko",
+          "name": "온라인 상점"
+        },
+        {
+          "country": "ja",
+          "name": "オンラインショップ"
+        },
+        {
+          "country": "in",
+          "name": "Toko online"
+        },
+        {
+          "country": "fr",
+          "name": "Magasin en ligne"
+        },
+        {
+          "country": "fil",
+          "name": "Online Shop"
+        },
+        {
+          "country": "es",
+          "name": "Tienda online"
+        },
+        {
+          "country": "de",
+          "name": "Online Shop"
+        }
+      ]
+    },
+    {
+      "default_name": "Organization",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cơ quan"
+        },
+        {
+          "country": "en",
+          "name": "Organization"
+        },
+        {
+          "country": "pt",
+          "name": "Organização"
+        },
+        {
+          "country": "ko",
+          "name": "조직"
+        },
+        {
+          "country": "ja",
+          "name": "組織"
+        },
+        {
+          "country": "in",
+          "name": "Organisasi"
+        },
+        {
+          "country": "fr",
+          "name": "Organisation"
+        },
+        {
+          "country": "fil",
+          "name": "Organisasyon"
+        },
+        {
+          "country": "es",
+          "name": "Organización"
+        },
+        {
+          "country": "de",
+          "name": "Organization"
+        }
+      ]
+    },
+    {
+      "default_name": "Paint",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sơn"
+        },
+        {
+          "country": "en",
+          "name": "Paint"
+        },
+        {
+          "country": "pt",
+          "name": "Pintar"
+        },
+        {
+          "country": "ko",
+          "name": "페인트"
+        },
+        {
+          "country": "ja",
+          "name": "ペイント"
+        },
+        {
+          "country": "in",
+          "name": "Cat"
+        },
+        {
+          "country": "fr",
+          "name": "Peindre"
+        },
+        {
+          "country": "fil",
+          "name": "Pintura"
+        },
+        {
+          "country": "es",
+          "name": "Pintura"
+        },
+        {
+          "country": "de",
+          "name": "Farbe"
+        }
+      ]
+    },
+    {
+      "default_name": "Party",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Buổi tiệc"
+        },
+        {
+          "country": "en",
+          "name": "Party"
+        },
+        {
+          "country": "pt",
+          "name": "Partido"
+        },
+        {
+          "country": "ko",
+          "name": "파티"
+        },
+        {
+          "country": "ja",
+          "name": "パーティー"
+        },
+        {
+          "country": "in",
+          "name": "Pesta"
+        },
+        {
+          "country": "fr",
+          "name": "Faire la fête"
+        },
+        {
+          "country": "fil",
+          "name": "Partido"
+        },
+        {
+          "country": "es",
+          "name": "Partido"
+        },
+        {
+          "country": "de",
+          "name": "Party"
+        }
+      ]
+    },
+    {
+      "default_name": "People",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Mọi người"
+        },
+        {
+          "country": "en",
+          "name": "People"
+        },
+        {
+          "country": "pt",
+          "name": "Pessoas"
+        },
+        {
+          "country": "ko",
+          "name": "사람들"
+        },
+        {
+          "country": "ja",
+          "name": "人"
+        },
+        {
+          "country": "in",
+          "name": "Orang-orang"
+        },
+        {
+          "country": "fr",
+          "name": "Gens"
+        },
+        {
+          "country": "fil",
+          "name": "Mga tao"
+        },
+        {
+          "country": "es",
+          "name": "Gente"
+        },
+        {
+          "country": "de",
+          "name": "Menschen"
+        }
+      ]
+    },
+    {
+      "default_name": "Perfume",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nước hoa"
+        },
+        {
+          "country": "en",
+          "name": "Perfume"
+        },
+        {
+          "country": "pt",
+          "name": "Perfume"
+        },
+        {
+          "country": "ko",
+          "name": "향수"
+        },
+        {
+          "country": "ja",
+          "name": "香水"
+        },
+        {
+          "country": "in",
+          "name": "Parfum"
+        },
+        {
+          "country": "fr",
+          "name": "Parfum"
+        },
+        {
+          "country": "fil",
+          "name": "Pabango"
+        },
+        {
+          "country": "es",
+          "name": "Perfume"
+        },
+        {
+          "country": "de",
+          "name": "Parfüm"
+        }
+      ]
+    },
+    {
+      "default_name": "Photography",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nhiếp ảnh"
+        },
+        {
+          "country": "en",
+          "name": "Photography"
+        },
+        {
+          "country": "pt",
+          "name": "Fotografia"
+        },
+        {
+          "country": "ko",
+          "name": "사진술"
+        },
+        {
+          "country": "ja",
+          "name": "写真"
+        },
+        {
+          "country": "in",
+          "name": "Fotografi"
+        },
+        {
+          "country": "fr",
+          "name": "La photographie"
+        },
+        {
+          "country": "fil",
+          "name": "Photography"
+        },
+        {
+          "country": "es",
+          "name": "Fotografía"
+        },
+        {
+          "country": "de",
+          "name": "Fotografie"
+        }
+      ]
+    },
+    {
+      "default_name": "Polygonal",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đa giác"
+        },
+        {
+          "country": "en",
+          "name": "Polygonal"
+        },
+        {
+          "country": "pt",
+          "name": "Poligonal"
+        },
+        {
+          "country": "ko",
+          "name": "다각형"
+        },
+        {
+          "country": "ja",
+          "name": "多角形"
+        },
+        {
+          "country": "in",
+          "name": "Poligonal"
+        },
+        {
+          "country": "fr",
+          "name": "Polygonal"
+        },
+        {
+          "country": "fil",
+          "name": "Polygonal"
+        },
+        {
+          "country": "es",
+          "name": "Poligonal"
+        },
+        {
+          "country": "de",
+          "name": "Polygonal"
+        }
+      ]
+    },
+    {
+      "default_name": "Property",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Bất động sản"
+        },
+        {
+          "country": "en",
+          "name": "Property"
+        },
+        {
+          "country": "pt",
+          "name": "Propriedade"
+        },
+        {
+          "country": "ko",
+          "name": "특성"
+        },
+        {
+          "country": "ja",
+          "name": "プロパティ"
+        },
+        {
+          "country": "in",
+          "name": "Properti"
+        },
+        {
+          "country": "fr",
+          "name": "Biens"
+        },
+        {
+          "country": "fil",
+          "name": "Pag-aari"
+        },
+        {
+          "country": "es",
+          "name": "Propiedad"
+        },
+        {
+          "country": "de",
+          "name": "Eigentum"
+        }
+      ]
+    },
+    {
+      "default_name": "Quote",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Trích dẫn"
+        },
+        {
+          "country": "en",
+          "name": "Quote"
+        },
+        {
+          "country": "pt",
+          "name": "Citar"
+        },
+        {
+          "country": "ko",
+          "name": "인용문"
+        },
+        {
+          "country": "ja",
+          "name": "見積もり"
+        },
+        {
+          "country": "in",
+          "name": "Kutipan"
+        },
+        {
+          "country": "fr",
+          "name": "Citation"
+        },
+        {
+          "country": "fil",
+          "name": "Quote"
+        },
+        {
+          "country": "es",
+          "name": "Cita"
+        },
+        {
+          "country": "de",
+          "name": "Zitat"
+        }
+      ]
+    },
+    {
+      "default_name": "Ramadan",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ramadan"
+        },
+        {
+          "country": "en",
+          "name": "Ramadan"
+        },
+        {
+          "country": "pt",
+          "name": "Ramadán"
+        },
+        {
+          "country": "ko",
+          "name": "라마단"
+        },
+        {
+          "country": "ja",
+          "name": "ラマダン"
+        },
+        {
+          "country": "in",
+          "name": "Ramadan"
+        },
+        {
+          "country": "fr",
+          "name": "Ramadan"
+        },
+        {
+          "country": "fil",
+          "name": "Ramadan"
+        },
+        {
+          "country": "es",
+          "name": "Ramadán"
+        },
+        {
+          "country": "de",
+          "name": "Ramadan"
+        }
+      ]
+    },
+    {
+      "default_name": "Real Estate",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Địa ốc"
+        },
+        {
+          "country": "en",
+          "name": "Real Estate"
+        },
+        {
+          "country": "pt",
+          "name": "Bienes raíces"
+        },
+        {
+          "country": "ko",
+          "name": "부동산"
+        },
+        {
+          "country": "ja",
+          "name": "不動産"
+        },
+        {
+          "country": "in",
+          "name": "Perumahan"
+        },
+        {
+          "country": "fr",
+          "name": "Immobilier"
+        },
+        {
+          "country": "fil",
+          "name": "Real Estate"
+        },
+        {
+          "country": "es",
+          "name": "Bienes raíces"
+        },
+        {
+          "country": "de",
+          "name": "Grundeigentum"
+        }
+      ]
+    },
+    {
+      "default_name": "Restaurant",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Nhà hàng"
+        },
+        {
+          "country": "en",
+          "name": "Restaurant"
+        },
+        {
+          "country": "pt",
+          "name": "Restaurante"
+        },
+        {
+          "country": "ko",
+          "name": "레스토랑"
+        },
+        {
+          "country": "ja",
+          "name": "レストラン"
+        },
+        {
+          "country": "in",
+          "name": "Restoran"
+        },
+        {
+          "country": "fr",
+          "name": "Le restaurant"
+        },
+        {
+          "country": "fil",
+          "name": "Restawran"
+        },
+        {
+          "country": "es",
+          "name": "Restaurante"
+        },
+        {
+          "country": "de",
+          "name": "Restaurant"
+        }
+      ]
+    },
+    {
+      "default_name": "Ribbon",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ruy-băng"
+        },
+        {
+          "country": "en",
+          "name": "Ribbon"
+        },
+        {
+          "country": "pt",
+          "name": "Cinta"
+        },
+        {
+          "country": "ko",
+          "name": "리본"
+        },
+        {
+          "country": "ja",
+          "name": "リボン"
+        },
+        {
+          "country": "in",
+          "name": "Pita"
+        },
+        {
+          "country": "fr",
+          "name": "Ruban"
+        },
+        {
+          "country": "fil",
+          "name": "Laso"
+        },
+        {
+          "country": "es",
+          "name": "Cinta"
+        },
+        {
+          "country": "de",
+          "name": "Band"
+        }
+      ]
+    },
+    {
+      "default_name": "Sakura Festival",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Lễ hội sakura"
+        },
+        {
+          "country": "en",
+          "name": "Sakura Festival"
+        },
+        {
+          "country": "pt",
+          "name": "Festival de Sakura"
+        },
+        {
+          "country": "ko",
+          "name": "사쿠라 축제"
+        },
+        {
+          "country": "ja",
+          "name": "さくらまつり"
+        },
+        {
+          "country": "in",
+          "name": "Festival Sakura"
+        },
+        {
+          "country": "fr",
+          "name": "Festival de Sakura"
+        },
+        {
+          "country": "fil",
+          "name": "Sakura Festival"
+        },
+        {
+          "country": "es",
+          "name": "Festival de Sakura"
+        },
+        {
+          "country": "de",
+          "name": "Sakura Festival"
+        }
+      ]
+    },
+    {
+      "default_name": "Shapes",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Hình dạng"
+        },
+        {
+          "country": "en",
+          "name": "Shapes"
+        },
+        {
+          "country": "pt",
+          "name": "Formas"
+        },
+        {
+          "country": "ko",
+          "name": "모양"
+        },
+        {
+          "country": "ja",
+          "name": "形"
+        },
+        {
+          "country": "in",
+          "name": "Bentuk"
+        },
+        {
+          "country": "fr",
+          "name": "Formes"
+        },
+        {
+          "country": "fil",
+          "name": "Mga Hugis"
+        },
+        {
+          "country": "es",
+          "name": "Formas"
+        },
+        {
+          "country": "de",
+          "name": "Formen"
+        }
+      ]
+    },
+    {
+      "default_name": "Shoes",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Giày"
+        },
+        {
+          "country": "en",
+          "name": "Shoes"
+        },
+        {
+          "country": "pt",
+          "name": "Zapatos"
+        },
+        {
+          "country": "ko",
+          "name": "신발"
+        },
+        {
+          "country": "ja",
+          "name": "靴"
+        },
+        {
+          "country": "in",
+          "name": "Sepatu"
+        },
+        {
+          "country": "fr",
+          "name": "Des chaussures"
+        },
+        {
+          "country": "fil",
+          "name": "Sapatos"
+        },
+        {
+          "country": "es",
+          "name": "Zapatos"
+        },
+        {
+          "country": "de",
+          "name": "Schuhe"
+        }
+      ]
+    },
+    {
+      "default_name": "Shop",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "cửa tiệm"
+        },
+        {
+          "country": "en",
+          "name": "Shop"
+        },
+        {
+          "country": "pt",
+          "name": "Tienda"
+        },
+        {
+          "country": "ko",
+          "name": "가게"
+        },
+        {
+          "country": "ja",
+          "name": "ショップ"
+        },
+        {
+          "country": "in",
+          "name": "Toko"
+        },
+        {
+          "country": "fr",
+          "name": "Magasin"
+        },
+        {
+          "country": "fil",
+          "name": "Mamili"
+        },
+        {
+          "country": "es",
+          "name": "Tienda"
+        },
+        {
+          "country": "de",
+          "name": "Geschäft"
+        }
+      ]
+    },
+    {
+      "default_name": "Skull",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đầu lâu"
+        },
+        {
+          "country": "en",
+          "name": "Skull"
+        },
+        {
+          "country": "pt",
+          "name": "Cráneo"
+        },
+        {
+          "country": "ko",
+          "name": "두개골"
+        },
+        {
+          "country": "ja",
+          "name": "頭蓋骨"
+        },
+        {
+          "country": "in",
+          "name": "Tengkorak"
+        },
+        {
+          "country": "fr",
+          "name": "Le crâne"
+        },
+        {
+          "country": "fil",
+          "name": "Bungo"
+        },
+        {
+          "country": "es",
+          "name": "Cráneo"
+        },
+        {
+          "country": "de",
+          "name": "Schädel"
+        }
+      ]
+    },
+    {
+      "default_name": "Soccer",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Bóng đá"
+        },
+        {
+          "country": "en",
+          "name": "Soccer"
+        },
+        {
+          "country": "pt",
+          "name": "Fútbol"
+        },
+        {
+          "country": "ko",
+          "name": "축구"
+        },
+        {
+          "country": "ja",
+          "name": "フットボール"
+        },
+        {
+          "country": "in",
+          "name": "Sepak bola"
+        },
+        {
+          "country": "fr",
+          "name": "Le football"
+        },
+        {
+          "country": "fil",
+          "name": "Soccer"
+        },
+        {
+          "country": "es",
+          "name": "Fútbol"
+        },
+        {
+          "country": "de",
+          "name": "Fußball"
+        }
+      ]
+    },
+    {
+      "default_name": "Social",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Xã hội"
+        },
+        {
+          "country": "en",
+          "name": "Social"
+        },
+        {
+          "country": "pt",
+          "name": "Social"
+        },
+        {
+          "country": "ko",
+          "name": "사회적인"
+        },
+        {
+          "country": "ja",
+          "name": "ソーシャル"
+        },
+        {
+          "country": "in",
+          "name": "Sosial"
+        },
+        {
+          "country": "fr",
+          "name": "Social"
+        },
+        {
+          "country": "fil",
+          "name": "Panlipunan"
+        },
+        {
+          "country": "es",
+          "name": "Social"
+        },
+        {
+          "country": "de",
+          "name": "Sozial"
+        }
+      ]
+    },
+    {
+      "default_name": "Sound Wave",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Sóng âm thanh"
+        },
+        {
+          "country": "en",
+          "name": "Sound Wave"
+        },
+        {
+          "country": "pt",
+          "name": "Onda de sonido"
+        },
+        {
+          "country": "ko",
+          "name": "음파"
+        },
+        {
+          "country": "ja",
+          "name": "音波"
+        },
+        {
+          "country": "in",
+          "name": "Gelombang suara"
+        },
+        {
+          "country": "fr",
+          "name": "Onde sonore"
+        },
+        {
+          "country": "fil",
+          "name": "Sound Wave"
+        },
+        {
+          "country": "es",
+          "name": "Onda de sonido"
+        },
+        {
+          "country": "de",
+          "name": "Schallwelle"
+        }
+      ]
+    },
+    {
+      "default_name": "Space",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Không gian"
+        },
+        {
+          "country": "en",
+          "name": "Space"
+        },
+        {
+          "country": "pt",
+          "name": "Espacio"
+        },
+        {
+          "country": "ko",
+          "name": "우주"
+        },
+        {
+          "country": "ja",
+          "name": "スペース"
+        },
+        {
+          "country": "in",
+          "name": "Ruang"
+        },
+        {
+          "country": "fr",
+          "name": "Espacer"
+        },
+        {
+          "country": "fil",
+          "name": "Space"
+        },
+        {
+          "country": "es",
+          "name": "Espacio"
+        },
+        {
+          "country": "de",
+          "name": "Raum"
+        }
+      ]
+    },
+    {
+      "default_name": "Special",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đặc biệt"
+        },
+        {
+          "country": "en",
+          "name": "Special"
+        },
+        {
+          "country": "pt",
+          "name": "Especial"
+        },
+        {
+          "country": "ko",
+          "name": "특별한"
+        },
+        {
+          "country": "ja",
+          "name": "特殊な"
+        },
+        {
+          "country": "in",
+          "name": "Khusus"
+        },
+        {
+          "country": "fr",
+          "name": "Spécial"
+        },
+        {
+          "country": "fil",
+          "name": "Espesyal"
+        },
+        {
+          "country": "es",
+          "name": "Especial"
+        },
+        {
+          "country": "de",
+          "name": "Besondere"
+        }
+      ]
+    },
+    {
+      "default_name": "Sport",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Thể thao 1"
+        },
+        {
+          "country": "en",
+          "name": "Sport 1"
+        },
+        {
+          "country": "pt",
+          "name": "Deporte 1"
+        },
+        {
+          "country": "ko",
+          "name": "스포츠 1"
+        },
+        {
+          "country": "ja",
+          "name": "スポーツ 1"
+        },
+        {
+          "country": "in",
+          "name": "Olahraga 1"
+        },
+        {
+          "country": "fr",
+          "name": "sport 1"
+        },
+        {
+          "country": "fil",
+          "name": "Palakasan 1"
+        },
+        {
+          "country": "es",
+          "name": "Deporte 1"
+        },
+        {
+          "country": "de",
+          "name": "Sport 1"
+        }
+      ]
+    },
+    {
+      "default_name": "Sports",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Thể thao 2"
+        },
+        {
+          "country": "en",
+          "name": "Sport 2"
+        },
+        {
+          "country": "pt",
+          "name": "Deporte 2"
+        },
+        {
+          "country": "ko",
+          "name": "스포츠 2"
+        },
+        {
+          "country": "ja",
+          "name": "スポーツ 2"
+        },
+        {
+          "country": "in",
+          "name": "Olahraga 2"
+        },
+        {
+          "country": "fr",
+          "name": "sport 2"
+        },
+        {
+          "country": "fil",
+          "name": "Palakasan 2"
+        },
+        {
+          "country": "es",
+          "name": "Deporte 2"
+        },
+        {
+          "country": "de",
+          "name": "Sport 2"
+        }
+      ]
+    },
+    {
+      "default_name": "Star",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Ngôi sao"
+        },
+        {
+          "country": "en",
+          "name": "Star"
+        },
+        {
+          "country": "pt",
+          "name": "Estrella"
+        },
+        {
+          "country": "ko",
+          "name": "별"
+        },
+        {
+          "country": "ja",
+          "name": "星"
+        },
+        {
+          "country": "in",
+          "name": "Bintang"
+        },
+        {
+          "country": "fr",
+          "name": "Star"
+        },
+        {
+          "country": "fil",
+          "name": "Bituin"
+        },
+        {
+          "country": "es",
+          "name": "Estrella"
+        },
+        {
+          "country": "de",
+          "name": "Star"
+        }
+      ]
+    },
+    {
+      "default_name": "Stationary",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đứng im"
+        },
+        {
+          "country": "en",
+          "name": "Stationary"
+        },
+        {
+          "country": "pt",
+          "name": "Estacionario"
+        },
+        {
+          "country": "ko",
+          "name": "변화 없는"
+        },
+        {
+          "country": "ja",
+          "name": "定常"
+        },
+        {
+          "country": "in",
+          "name": "Perlengkapan tulis"
+        },
+        {
+          "country": "fr",
+          "name": "Stationnaire"
+        },
+        {
+          "country": "fil",
+          "name": "Nakatigil"
+        },
+        {
+          "country": "es",
+          "name": "Estacionario"
+        },
+        {
+          "country": "de",
+          "name": "Stationär"
+        }
+      ]
+    },
+    {
+      "default_name": "Summertime",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Mùa hè"
+        },
+        {
+          "country": "en",
+          "name": "Summertime"
+        },
+        {
+          "country": "pt",
+          "name": "Hora de verano"
+        },
+        {
+          "country": "ko",
+          "name": "하계"
+        },
+        {
+          "country": "ja",
+          "name": "夏時間"
+        },
+        {
+          "country": "in",
+          "name": "Musim panas"
+        },
+        {
+          "country": "fr",
+          "name": "Heure d'été"
+        },
+        {
+          "country": "fil",
+          "name": "Tag-araw"
+        },
+        {
+          "country": "es",
+          "name": "Hora de verano"
+        },
+        {
+          "country": "de",
+          "name": "Sommer"
+        }
+      ]
+    },
+    {
+      "default_name": "Tattoos",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Hình xăm"
+        },
+        {
+          "country": "en",
+          "name": "Tattoos"
+        },
+        {
+          "country": "pt",
+          "name": "Tatuajes"
+        },
+        {
+          "country": "ko",
+          "name": "문신"
+        },
+        {
+          "country": "ja",
+          "name": "入れ墨"
+        },
+        {
+          "country": "in",
+          "name": "Tato"
+        },
+        {
+          "country": "fr",
+          "name": "Tatouages"
+        },
+        {
+          "country": "fil",
+          "name": "Mga tattoo"
+        },
+        {
+          "country": "es",
+          "name": "Tatuajes"
+        },
+        {
+          "country": "de",
+          "name": "Tätowierungen"
+        }
+      ]
+    },
+    {
+      "default_name": "Technology",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Công nghệ"
+        },
+        {
+          "country": "en",
+          "name": "Technology"
+        },
+        {
+          "country": "pt",
+          "name": "Tecnología"
+        },
+        {
+          "country": "ko",
+          "name": "과학 기술"
+        },
+        {
+          "country": "ja",
+          "name": "技術"
+        },
+        {
+          "country": "in",
+          "name": "Teknologi"
+        },
+        {
+          "country": "fr",
+          "name": "La technologie"
+        },
+        {
+          "country": "fil",
+          "name": "Teknolohiya"
+        },
+        {
+          "country": "es",
+          "name": "Tecnología"
+        },
+        {
+          "country": "de",
+          "name": "Technologie"
+        }
+      ]
+    },
+    {
+      "default_name": "Think",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Suy nghĩ"
+        },
+        {
+          "country": "en",
+          "name": "Think"
+        },
+        {
+          "country": "pt",
+          "name": "Pensar"
+        },
+        {
+          "country": "ko",
+          "name": "생각한다"
+        },
+        {
+          "country": "ja",
+          "name": "考える"
+        },
+        {
+          "country": "in",
+          "name": "Berpikir"
+        },
+        {
+          "country": "fr",
+          "name": "Pense"
+        },
+        {
+          "country": "fil",
+          "name": "Isipin mo"
+        },
+        {
+          "country": "es",
+          "name": "Pensar"
+        },
+        {
+          "country": "de",
+          "name": "Denken"
+        }
+      ]
+    },
+    {
+      "default_name": "Toy",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Đồ chơi"
+        },
+        {
+          "country": "en",
+          "name": "Toy"
+        },
+        {
+          "country": "pt",
+          "name": "Juguete"
+        },
+        {
+          "country": "ko",
+          "name": "장난감"
+        },
+        {
+          "country": "ja",
+          "name": "おもちゃ"
+        },
+        {
+          "country": "in",
+          "name": "Mainan"
+        },
+        {
+          "country": "fr",
+          "name": "Jouet"
+        },
+        {
+          "country": "fil",
+          "name": "Laruan"
+        },
+        {
+          "country": "es",
+          "name": "Juguete"
+        },
+        {
+          "country": "de",
+          "name": "Spielzeug"
+        }
+      ]
+    },
+    {
+      "default_name": "Tractor",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Máy kéo"
+        },
+        {
+          "country": "en",
+          "name": "Tractor"
+        },
+        {
+          "country": "pt",
+          "name": "Tractor"
+        },
+        {
+          "country": "ko",
+          "name": "트랙터"
+        },
+        {
+          "country": "ja",
+          "name": "トラクター"
+        },
+        {
+          "country": "in",
+          "name": "Traktor"
+        },
+        {
+          "country": "fr",
+          "name": "Tracteur"
+        },
+        {
+          "country": "fil",
+          "name": "Traktor"
+        },
+        {
+          "country": "es",
+          "name": "Tractor"
+        },
+        {
+          "country": "de",
+          "name": "Traktor"
+        }
+      ]
+    },
+    {
+      "default_name": "Travel",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Máy kéo"
+        },
+        {
+          "country": "en",
+          "name": "Travel"
+        },
+        {
+          "country": "pt",
+          "name": "Viajar"
+        },
+        {
+          "country": "ko",
+          "name": "여행"
+        },
+        {
+          "country": "ja",
+          "name": "トラベル"
+        },
+        {
+          "country": "in",
+          "name": "Perjalanan"
+        },
+        {
+          "country": "fr",
+          "name": "Voyage"
+        },
+        {
+          "country": "fil",
+          "name": "Paglalakbay"
+        },
+        {
+          "country": "es",
+          "name": "Viajar"
+        },
+        {
+          "country": "de",
+          "name": "Reise"
+        }
+      ]
+    },
+    {
+      "default_name": "Tribal Mask",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Mặt nạ bộ tộc"
+        },
+        {
+          "country": "en",
+          "name": "Tribal Mask"
+        },
+        {
+          "country": "pt",
+          "name": "Mascara tribal"
+        },
+        {
+          "country": "ko",
+          "name": "부족 가면"
+        },
+        {
+          "country": "ja",
+          "name": "部族マスク"
+        },
+        {
+          "country": "in",
+          "name": "Topeng Suku"
+        },
+        {
+          "country": "fr",
+          "name": "Masque tribal"
+        },
+        {
+          "country": "fil",
+          "name": "Tribal Mask"
+        },
+        {
+          "country": "es",
+          "name": "Mascara tribal"
+        },
+        {
+          "country": "de",
+          "name": "Stammesmaske"
+        }
+      ]
+    },
+    {
+      "default_name": "Unknow",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "en",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "pt",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "ko",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "ja",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "in",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "fr",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "fil",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "es",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "de",
+          "name": "Unknow 2"
+        }
+      ]
+    },
+    {
+      "default_name": "Vegetable",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Rau"
+        },
+        {
+          "country": "en",
+          "name": "Vegetable"
+        },
+        {
+          "country": "pt",
+          "name": "Vegetal"
+        },
+        {
+          "country": "ko",
+          "name": "야채"
+        },
+        {
+          "country": "ja",
+          "name": "野菜"
+        },
+        {
+          "country": "in",
+          "name": "Sayur-mayur"
+        },
+        {
+          "country": "fr",
+          "name": "Légume"
+        },
+        {
+          "country": "fil",
+          "name": "Gulay"
+        },
+        {
+          "country": "es",
+          "name": "Vegetal"
+        },
+        {
+          "country": "de",
+          "name": "Gemüse"
+        }
+      ]
+    },
+    {
+      "default_name": "Vintage",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cổ điển"
+        },
+        {
+          "country": "en",
+          "name": "Vintage"
+        },
+        {
+          "country": "pt",
+          "name": "Clásico"
+        },
+        {
+          "country": "ko",
+          "name": "포도 수확"
+        },
+        {
+          "country": "ja",
+          "name": "ビンテージ"
+        },
+        {
+          "country": "in",
+          "name": "Vintage"
+        },
+        {
+          "country": "fr",
+          "name": "Vintage"
+        },
+        {
+          "country": "fil",
+          "name": "Antigo"
+        },
+        {
+          "country": "es",
+          "name": "Clásico"
+        },
+        {
+          "country": "de",
+          "name": "Jahrgang"
+        }
+      ]
+    },
+    {
+      "default_name": "Water color",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Màu nước"
+        },
+        {
+          "country": "en",
+          "name": "Water color"
+        },
+        {
+          "country": "pt",
+          "name": "Color de agua"
+        },
+        {
+          "country": "ko",
+          "name": "물 색깔"
+        },
+        {
+          "country": "ja",
+          "name": "水の色"
+        },
+        {
+          "country": "in",
+          "name": "Warna air"
+        },
+        {
+          "country": "fr",
+          "name": "Aquarelle"
+        },
+        {
+          "country": "fil",
+          "name": "Kulay ng tubig"
+        },
+        {
+          "country": "es",
+          "name": "Color de agua"
+        },
+        {
+          "country": "de",
+          "name": "Aquarell"
+        }
+      ]
+    },
+    {
+      "default_name": "Wood",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Gỗ"
+        },
+        {
+          "country": "en",
+          "name": "Wood"
+        },
+        {
+          "country": "pt",
+          "name": "Madera"
+        },
+        {
+          "country": "ko",
+          "name": "목재"
+        },
+        {
+          "country": "ja",
+          "name": "木材"
+        },
+        {
+          "country": "in",
+          "name": "Kayu"
+        },
+        {
+          "country": "fr",
+          "name": "Bois"
+        },
+        {
+          "country": "fil",
+          "name": "Kahoy"
+        },
+        {
+          "country": "es",
+          "name": "Madera"
+        },
+        {
+          "country": "de",
+          "name": "Holz"
+        }
+      ]
+    },
+    {
+      "default_name": "Worker",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Công nhân"
+        },
+        {
+          "country": "en",
+          "name": "Worker"
+        },
+        {
+          "country": "pt",
+          "name": "Trabajador"
+        },
+        {
+          "country": "ko",
+          "name": "노동자"
+        },
+        {
+          "country": "ja",
+          "name": "ワーカー"
+        },
+        {
+          "country": "in",
+          "name": "Pekerja"
+        },
+        {
+          "country": "fr",
+          "name": "Ouvrier"
+        },
+        {
+          "country": "fil",
+          "name": "Manggagawa"
+        },
+        {
+          "country": "es",
+          "name": "Trabajador"
+        },
+        {
+          "country": "de",
+          "name": "Arbeiter"
+        }
+      ]
+    }
+  ]
+}

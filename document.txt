@@ -1,0 +1,26 @@
+1.Thông báo có resource mới
+ - Sẽ thông báo qua firebase FCM thông qua message của notification, sau đấy trong app sẽ parse ra rồi hiển thị phù hơp
+{
+  "type	" : 1,
+  "background" :{
+    
+  },
+  "font" : {
+    
+  },
+  "sticker" : {
+    
+  },
+  "template" : {
+    
+  }
+}
+- type : * 1 là background
+	* 2 là font
+	* 3 là sticker
+	* 4 là tempate
+
+* TAG FONT
+- type : 1 là country
+	 2 là category
+	 3 là style

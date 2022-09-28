@@ -1,0 +1,1350 @@
+{
+  "data": [
+    {
+      "default_name": "abstract",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "trừu tượng"
+        },
+        {
+          "country": "en",
+          "name": "abstract"
+        },
+        {
+          "country": "pt",
+          "name": "resumo"
+        },
+        {
+          "country": "ko",
+          "name": "요약"
+        },
+        {
+          "country": "ja",
+          "name": "概要"
+        },
+        {
+          "country": "in",
+          "name": "abstrak"
+        },
+        {
+          "country": "fr",
+          "name": "abstrait"
+        },
+        {
+          "country": "fil",
+          "name": "mahirap unawain"
+        },
+        {
+          "country": "de",
+          "name": "abstrakt"
+        },
+        {
+          "country": "es",
+          "name": "abstracto"
+        }
+      ]
+    },
+    {
+      "default_name": "agriculture",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nông nghiệp"
+        },
+        {
+          "country": "en",
+          "name": "agriculture"
+        },
+        {
+          "country": "pt",
+          "name": "agricultura"
+        },
+        {
+          "country": "ko",
+          "name": "농업"
+        },
+        {
+          "country": "ja",
+          "name": "農業"
+        },
+        {
+          "country": "in",
+          "name": "pertanian"
+        },
+        {
+          "country": "fr",
+          "name": "agriculture"
+        },
+        {
+          "country": "fil",
+          "name": "agrikultura"
+        },
+        {
+          "country": "de",
+          "name": "landwirtschaft"
+        },
+        {
+          "country": "es",
+          "name": "agrícola"
+        }
+      ]
+    },
+    {
+      "default_name": "animal",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "động vật"
+        },
+        {
+          "country": "en",
+          "name": "animal"
+        },
+        {
+          "country": "pt",
+          "name": "animal"
+        },
+        {
+          "country": "ko",
+          "name": "동물"
+        },
+        {
+          "country": "ja",
+          "name": "動物"
+        },
+        {
+          "country": "in",
+          "name": "satwa"
+        },
+        {
+          "country": "fr",
+          "name": "animale"
+        },
+        {
+          "country": "fil",
+          "name": "hayop"
+        },
+        {
+          "country": "de",
+          "name": "tier"
+        },
+        {
+          "country": "es",
+          "name": "animal"
+        }
+      ]
+    },
+    {
+      "default_name": "art",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nghệ thuật"
+        },
+        {
+          "country": "en",
+          "name": "art"
+        },
+        {
+          "country": "pt",
+          "name": "arte"
+        },
+        {
+          "country": "ko",
+          "name": "미술"
+        },
+        {
+          "country": "ja",
+          "name": "アート"
+        },
+        {
+          "country": "in",
+          "name": "seni"
+        },
+        {
+          "country": "fr",
+          "name": "art"
+        },
+        {
+          "country": "fil",
+          "name": "arte"
+        },
+        {
+          "country": "de",
+          "name": "kunst"
+        },
+        {
+          "country": "es",
+          "name": "arte"
+        }
+      ]
+    },
+    {
+      "default_name": "attorney & law",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Luật sư & Luật"
+        },
+        {
+          "country": "en",
+          "name": "attorney & law"
+        },
+        {
+          "country": "pt",
+          "name": "advogado e lei"
+        },
+        {
+          "country": "ko",
+          "name": "변호사 및 법률"
+        },
+        {
+          "country": "ja",
+          "name": "弁護士と法律"
+        },
+        {
+          "country": "in",
+          "name": "pengacara & hukum"
+        },
+        {
+          "country": "fr",
+          "name": "avocat et droit"
+        },
+        {
+          "country": "fil",
+          "name": "abugado at batas"
+        },
+        {
+          "country": "de",
+          "name": "anwälte & gesetze"
+        },
+        {
+          "country": "es",
+          "name": "abogado y ley"
+        }
+      ]
+    },
+    {
+      "default_name": "badge",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "huy hiệu"
+        },
+        {
+          "country": "en",
+          "name": "badge"
+        },
+        {
+          "country": "pt",
+          "name": "distintivo"
+        },
+        {
+          "country": "ko",
+          "name": "배지"
+        },
+        {
+          "country": "ja",
+          "name": "バッジ"
+        },
+        {
+          "country": "in",
+          "name": "lencana"
+        },
+        {
+          "country": "fr",
+          "name": "badge"
+        },
+        {
+          "country": "fil",
+          "name": "badge"
+        },
+        {
+          "country": "de",
+          "name": "Wappen"
+        },
+        {
+          "country": "es",
+          "name": "insignia"
+        }
+      ]
+    },
+    {
+      "default_name": "business & consulting",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "kinh doanh & tư vấn"
+        },
+        {
+          "country": "en",
+          "name": "business & consulting"
+        },
+        {
+          "country": "pt",
+          "name": "consultoria de negócios"
+        },
+        {
+          "country": "ko",
+          "name": "비즈니스 컨설팅"
+        },
+        {
+          "country": "ja",
+          "name": "経営相談"
+        },
+        {
+          "country": "in",
+          "name": "bisnis & konsultasi"
+        },
+        {
+          "country": "fr",
+          "name": "Conseil aux entreprises"
+        },
+        {
+          "country": "fil",
+          "name": "negosyo at pagkonsulta"
+        },
+        {
+          "country": "de",
+          "name": "Unternehmensberatung"
+        },
+        {
+          "country": "es",
+          "name": "consulta de trabajo"
+        }
+      ]
+    },
+    {
+      "default_name": "car & auto",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "ô tô"
+        },
+        {
+          "country": "en",
+          "name": "car & auto"
+        },
+        {
+          "country": "pt",
+          "name": "carro e auto"
+        },
+        {
+          "country": "ko",
+          "name": "자동차 및 자동차"
+        },
+        {
+          "country": "ja",
+          "name": "車＆自動車"
+        },
+        {
+          "country": "in",
+          "name": "mobil & otomotif"
+        },
+        {
+          "country": "fr",
+          "name": "voiture et auto"
+        },
+        {
+          "country": "fil",
+          "name": "kotse at sasakyan"
+        },
+        {
+          "country": "de",
+          "name": "auto"
+        },
+        {
+          "country": "es",
+          "name": "coche y auto"
+        }
+      ]
+    },
+    {
+      "default_name": "children & childcare",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "trẻ em & chăm sóc trẻ em"
+        },
+        {
+          "country": "en",
+          "name": "children & childcare"
+        },
+        {
+          "country": "pt",
+          "name": "crianças e cuidados infantis"
+        },
+        {
+          "country": "ko",
+          "name": "어린이 및 보육"
+        },
+        {
+          "country": "ja",
+          "name": "子供と育児"
+        },
+        {
+          "country": "in",
+          "name": "anak-anak & perawatan anak"
+        },
+        {
+          "country": "fr",
+          "name": "enfants et garde d'enfants"
+        },
+        {
+          "country": "fil",
+          "name": "mga bata at pangangalaga sa bata"
+        },
+        {
+          "country": "de",
+          "name": "kinder & kinderbetreuung"
+        },
+        {
+          "country": "es",
+          "name": "niños y cuidado de niños"
+        }
+      ]
+    },
+    {
+      "default_name": "club",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "câu lạc bộ"
+        },
+        {
+          "country": "en",
+          "name": "club"
+        },
+        {
+          "country": "pt",
+          "name": "clube"
+        },
+        {
+          "country": "ko",
+          "name": "클럽"
+        },
+        {
+          "country": "ja",
+          "name": "クラブ"
+        },
+        {
+          "country": "in",
+          "name": "klub"
+        },
+        {
+          "country": "fr",
+          "name": "club"
+        },
+        {
+          "country": "fil",
+          "name": "club"
+        },
+        {
+          "country": "de",
+          "name": "verein"
+        },
+        {
+          "country": "es",
+          "name": "club"
+        }
+      ]
+    },
+    {
+      "default_name": "communication",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giao tiếp"
+        },
+        {
+          "country": "en",
+          "name": "communication"
+        },
+        {
+          "country": "pt",
+          "name": "comunicação"
+        },
+        {
+          "country": "ko",
+          "name": "통신"
+        },
+        {
+          "country": "ja",
+          "name": "コミュニケーション"
+        },
+        {
+          "country": "in",
+          "name": "komunikasi"
+        },
+        {
+          "country": "fr",
+          "name": "la communication"
+        },
+        {
+          "country": "fil",
+          "name": "komunikasyon"
+        },
+        {
+          "country": "de",
+          "name": "kommunikation"
+        },
+        {
+          "country": "es",
+          "name": "comunicación"
+        }
+      ]
+    },
+    {
+      "default_name": "company",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "công ty"
+        },
+        {
+          "country": "en",
+          "name": "company"
+        },
+        {
+          "country": "pt",
+          "name": "companhia"
+        },
+        {
+          "country": "ko",
+          "name": "회사"
+        },
+        {
+          "country": "ja",
+          "name": "会社"
+        },
+        {
+          "country": "in",
+          "name": "perusahaan"
+        },
+        {
+          "country": "fr",
+          "name": "compagnie"
+        },
+        {
+          "country": "fil",
+          "name": "kumpanya"
+        },
+        {
+          "country": "de",
+          "name": "unternehmen"
+        },
+        {
+          "country": "es",
+          "name": "empresa"
+        }
+      ]
+    },
+    {
+      "default_name": "construction",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "xây dựng"
+        },
+        {
+          "country": "en",
+          "name": "construction"
+        },
+        {
+          "country": "pt",
+          "name": "construção"
+        },
+        {
+          "country": "ko",
+          "name": "구성"
+        },
+        {
+          "country": "ja",
+          "name": "建設"
+        },
+        {
+          "country": "in",
+          "name": "konstruksi"
+        },
+        {
+          "country": "fr",
+          "name": "construction"
+        },
+        {
+          "country": "fil",
+          "name": "konstruksyon"
+        },
+        {
+          "country": "de",
+          "name": "konstruktion"
+        },
+        {
+          "country": "es",
+          "name": "construcción"
+        }
+      ]
+    },
+    {
+      "default_name": "education",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giáo dục"
+        },
+        {
+          "country": "en",
+          "name": "education"
+        },
+        {
+          "country": "pt",
+          "name": "Educação"
+        },
+        {
+          "country": "ko",
+          "name": "교육"
+        },
+        {
+          "country": "ja",
+          "name": "教育"
+        },
+        {
+          "country": "in",
+          "name": "pendidikan"
+        },
+        {
+          "country": "fr",
+          "name": "éducation"
+        },
+        {
+          "country": "fil",
+          "name": "edukasyon"
+        },
+        {
+          "country": "de",
+          "name": "bildung"
+        },
+        {
+          "country": "es",
+          "name": "educación"
+        }
+      ]
+    },
+    {
+      "default_name": "entertainment",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giải trí"
+        },
+        {
+          "country": "en",
+          "name": "entertainment"
+        },
+        {
+          "country": "pt",
+          "name": "entretenimento"
+        },
+        {
+          "country": "ko",
+          "name": "환대"
+        },
+        {
+          "country": "ja",
+          "name": "エンターテインメント"
+        },
+        {
+          "country": "in",
+          "name": "hiburan"
+        },
+        {
+          "country": "fr",
+          "name": "divertissement"
+        },
+        {
+          "country": "fil",
+          "name": "aliwan"
+        },
+        {
+          "country": "de",
+          "name": "unterhaltung"
+        },
+        {
+          "country": "es",
+          "name": "entretenimiento"
+        }
+      ]
+    },
+    {
+      "default_name": "fashion & beauty",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "thời trang & làm đẹp"
+        },
+        {
+          "country": "en",
+          "name": "fashion & beauty"
+        },
+        {
+          "country": "pt",
+          "name": "moda e beleza"
+        },
+        {
+          "country": "ko",
+          "name": "패션 & 뷰티"
+        },
+        {
+          "country": "ja",
+          "name": "ファッション＆ビューティー"
+        },
+        {
+          "country": "in",
+          "name": "fashion & kecantikan"
+        },
+        {
+          "country": "fr",
+          "name": "fashion beauté"
+        },
+        {
+          "country": "fil",
+          "name": "fashion at kagandahan"
+        },
+        {
+          "country": "de",
+          "name": "mode & schönheit"
+        },
+        {
+          "country": "es",
+          "name": "belleza de la moda"
+        }
+      ]
+    },
+    {
+      "default_name": "finance & insurance",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "tài chính & bảo hiểm"
+        },
+        {
+          "country": "en",
+          "name": "finance & insurance"
+        },
+        {
+          "country": "pt",
+          "name": "finanças e seguros"
+        },
+        {
+          "country": "ko",
+          "name": "금융 및 보험"
+        },
+        {
+          "country": "ja",
+          "name": "金融と保険"
+        },
+        {
+          "country": "in",
+          "name": "keuangan & asuransi"
+        },
+        {
+          "country": "fr",
+          "name": "finance et assurance"
+        },
+        {
+          "country": "fil",
+          "name": "pananalapi at seguro"
+        },
+        {
+          "country": "de",
+          "name": "finanzen & versicherungen"
+        },
+        {
+          "country": "es",
+          "name": "finanzas y seguros"
+        }
+      ]
+    },
+    {
+      "default_name": "food",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "món ăn"
+        },
+        {
+          "country": "en",
+          "name": "food"
+        },
+        {
+          "country": "pt",
+          "name": "Comida"
+        },
+        {
+          "country": "ko",
+          "name": "음식"
+        },
+        {
+          "country": "ja",
+          "name": "食物"
+        },
+        {
+          "country": "in",
+          "name": "makanan"
+        },
+        {
+          "country": "fr",
+          "name": "food"
+        },
+        {
+          "country": "fil",
+          "name": "pagkain"
+        },
+        {
+          "country": "de",
+          "name": "lebensmittel"
+        }
+      ]
+    },
+    {
+      "default_name": "industrial",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "công nghiệp"
+        },
+        {
+          "country": "en",
+          "name": "industrial"
+        },
+        {
+          "country": "pt",
+          "name": "industrial"
+        },
+        {
+          "country": "ko",
+          "name": "산업"
+        },
+        {
+          "country": "ja",
+          "name": "産業"
+        },
+        {
+          "country": "in",
+          "name": "industri"
+        },
+        {
+          "country": "fr",
+          "name": "industriel"
+        },
+        {
+          "country": "fil",
+          "name": "pang-industriya"
+        },
+        {
+          "country": "de",
+          "name": "industriell"
+        },
+        {
+          "country": "es",
+          "name": "industrial"
+        }
+      ]
+    },
+    {
+      "default_name": "life",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "đời sống"
+        },
+        {
+          "country": "en",
+          "name": "life"
+        },
+        {
+          "country": "pt",
+          "name": "vida"
+        },
+        {
+          "country": "ko",
+          "name": "생명"
+        },
+        {
+          "country": "ja",
+          "name": "生活"
+        },
+        {
+          "country": "in",
+          "name": "kehidupan"
+        },
+        {
+          "country": "fr",
+          "name": "la vie"
+        },
+        {
+          "country": "fil",
+          "name": "buhay"
+        },
+        {
+          "country": "de",
+          "name": "leben"
+        },
+        {
+          "country": "es",
+          "name": "vida"
+        }
+      ]
+    },
+    {
+      "default_name": "medical & pharmaceutical",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "y tế và dược phẩm"
+        },
+        {
+          "country": "en",
+          "name": "medical & pharmaceutical"
+        },
+        {
+          "country": "pt",
+          "name": "médico e farmacêutico"
+        },
+        {
+          "country": "ko",
+          "name": "의료 및 제약"
+        },
+        {
+          "country": "ja",
+          "name": "医療・製薬"
+        },
+        {
+          "country": "in",
+          "name": "medis & farmasi"
+        },
+        {
+          "country": "fr",
+          "name": "médical et pharmaceutique"
+        },
+        {
+          "country": "fil",
+          "name": "medikal at parmasyutiko"
+        },
+        {
+          "country": "de",
+          "name": "medizinisch & pharmazeutisch"
+        },
+        {
+          "country": "es",
+          "name": "médico y farmacéutico"
+        }
+      ]
+    },
+    {
+      "default_name": "music",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "âm nhạc"
+        },
+        {
+          "country": "en",
+          "name": "music"
+        },
+        {
+          "country": "pt",
+          "name": "música"
+        },
+        {
+          "country": "ko",
+          "name": "음악"
+        },
+        {
+          "country": "ja",
+          "name": "音楽"
+        },
+        {
+          "country": "in",
+          "name": "musik"
+        },
+        {
+          "country": "fr",
+          "name": "musique"
+        },
+        {
+          "country": "fil",
+          "name": "musika"
+        },
+        {
+          "country": "de",
+          "name": "musik"
+        },
+        {
+          "country": "es",
+          "name": "música"
+        }
+      ]
+    },
+    {
+      "default_name": "nature",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "thiên nhiên"
+        },
+        {
+          "country": "en",
+          "name": "nature"
+        },
+        {
+          "country": "pt",
+          "name": "natureza"
+        },
+        {
+          "country": "ko",
+          "name": "자연"
+        },
+        {
+          "country": "ja",
+          "name": "自然"
+        },
+        {
+          "country": "in",
+          "name": "alam"
+        },
+        {
+          "country": "fr",
+          "name": "la nature"
+        },
+        {
+          "country": "fil",
+          "name": "kalikasan"
+        },
+        {
+          "country": "de",
+          "name": "natur"
+        },
+        {
+          "country": "es",
+          "name": "naturaleza"
+        }
+      ]
+    },
+    {
+      "default_name": "noel",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giáng sinh"
+        },
+        {
+          "country": "en",
+          "name": "christmas"
+        },
+        {
+          "country": "pt",
+          "name": "Natal"
+        },
+        {
+          "country": "ko",
+          "name": "크리스마스"
+        },
+        {
+          "country": "ja",
+          "name": "クリスマス"
+        },
+        {
+          "country": "in",
+          "name": "hari Natal"
+        },
+        {
+          "country": "fr",
+          "name": "Noël"
+        },
+        {
+          "country": "fil",
+          "name": "pasko"
+        },
+        {
+          "country": "de",
+          "name": "weihnachten"
+        },
+        {
+          "country": "es",
+          "name": "navidad"
+        }
+      ]
+    },
+    {
+      "default_name": "non-profit",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "phi lợi nhuận"
+        },
+        {
+          "country": "en",
+          "name": "non-profit"
+        },
+        {
+          "country": "pt",
+          "name": "sem fins lucrativos"
+        },
+        {
+          "country": "ko",
+          "name": "비영리"
+        },
+        {
+          "country": "ja",
+          "name": "非営利団体"
+        },
+        {
+          "country": "in",
+          "name": "nirlaba"
+        },
+        {
+          "country": "fr",
+          "name": "non lucratif"
+        },
+        {
+          "country": "fil",
+          "name": "non-profit"
+        },
+        {
+          "country": "de",
+          "name": "gemeinnützig"
+        },
+        {
+          "country": "es",
+          "name": "sin ánimo de lucro"
+        }
+      ]
+    },
+    {
+      "default_name": "religion",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "tôn giáo"
+        },
+        {
+          "country": "en",
+          "name": "religion"
+        },
+        {
+          "country": "pt",
+          "name": "religião"
+        },
+        {
+          "country": "ko",
+          "name": "종교"
+        },
+        {
+          "country": "ja",
+          "name": "宗教"
+        },
+        {
+          "country": "in",
+          "name": "agama"
+        },
+        {
+          "country": "fr",
+          "name": "religion"
+        },
+        {
+          "country": "fil",
+          "name": "relihiyon"
+        },
+        {
+          "country": "de",
+          "name": "religion"
+        },
+        {
+          "country": "es",
+          "name": "religión"
+        }
+      ]
+    },
+    {
+      "default_name": "restaurant",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nhà hàng"
+        },
+        {
+          "country": "en",
+          "name": "restaurant"
+        },
+        {
+          "country": "pt",
+          "name": "restaurante"
+        },
+        {
+          "country": "ko",
+          "name": "레스토랑"
+        },
+        {
+          "country": "ja",
+          "name": "レストラン"
+        },
+        {
+          "country": "in",
+          "name": "restoran"
+        },
+        {
+          "country": "fr",
+          "name": "le restaurant"
+        },
+        {
+          "country": "fil",
+          "name": "restawran"
+        },
+        {
+          "country": "de",
+          "name": "restaurant"
+        },
+        {
+          "country": "es",
+          "name": "restaurante"
+        }
+      ]
+    },
+    {
+      "default_name": "retail & sale",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "bán lẻ"
+        },
+        {
+          "country": "en",
+          "name": "retail & sale"
+        },
+        {
+          "country": "pt",
+          "name": "venda a retalho"
+        },
+        {
+          "country": "ko",
+          "name": "판매"
+        },
+        {
+          "country": "ja",
+          "name": "小売＆販売"
+        },
+        {
+          "country": "in",
+          "name": "penjualan eceran"
+        },
+        {
+          "country": "fr",
+          "name": "la vente au détail"
+        },
+        {
+          "country": "fil",
+          "name": "tingian at pagbebenta"
+        },
+        {
+          "country": "de",
+          "name": "einzelverkauf"
+        },
+        {
+          "country": "es",
+          "name": "venta minorista y venta"
+        }
+      ]
+    },
+    {
+      "default_name": "science & technology",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "khoa học công nghệ"
+        },
+        {
+          "country": "en",
+          "name": "science & technology"
+        },
+        {
+          "country": "pt",
+          "name": "tecnologia científica"
+        },
+        {
+          "country": "ko",
+          "name": "과학 기술"
+        },
+        {
+          "country": "ja",
+          "name": "科学技術"
+        },
+        {
+          "country": "in",
+          "name": "sains & teknologi"
+        },
+        {
+          "country": "fr",
+          "name": "technologie scientifique"
+        },
+        {
+          "country": "fil",
+          "name": "agham at teknolohiya"
+        },
+        {
+          "country": "de",
+          "name": "wissenschaft & technologie"
+        },
+        {
+          "country": "es",
+          "name": "tecnología científica"
+        }
+      ]
+    },
+    {
+      "default_name": "storage",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "lưu trữ"
+        },
+        {
+          "country": "en",
+          "name": "storage"
+        },
+        {
+          "country": "pt",
+          "name": "armazenar"
+        },
+        {
+          "country": "ko",
+          "name": "저장"
+        },
+        {
+          "country": "ja",
+          "name": "ストレージ"
+        },
+        {
+          "country": "in",
+          "name": "penyimpanan"
+        },
+        {
+          "country": "fr",
+          "name": "espace de rangement"
+        },
+        {
+          "country": "fil",
+          "name": "pag-iimbak"
+        },
+        {
+          "country": "de",
+          "name": "lager"
+        },
+        {
+          "country": "es",
+          "name": "almacenamiento"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "tag": "urdu",
+      "isNew": false,
+      "type" : 1
+    },
+    {
+      "tag": "tamil",
+      "isNew": false,
+      "type" : 1
+    },
+    {
+      "tag": "america",
+      "isNew": false,
+      "type" : 1
+    },
+    {
+      "tag": "korean",
+      "isNew": false,
+      "type" : 1
+    },
+    {
+      "tag": "thai",
+      "isNew": false,
+      "type" : 1
+    },
+    {
+      "tag": "Hindi",
+      "type" : 1
+    },
+    {
+      "tag": "Japanese",
+      "type" : 1
+    },
+    {
+      "tag": "Malayalam",
+      "type" : 1
+    },
+    {
+      "tag": "Arabic",
+      "type" : 1
+    },
+    {
+      "tag": "crystal sky",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "disney",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "dj",
+      "isNew": true,
+      "type" : 2
+    },
+    {
+      "tag": "drip",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "esport",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "graffiti",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "gujarati",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "horor",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "retro",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "rock",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "paint",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "tatoo",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "brush",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "hand writing",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "engineering",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "racing",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "signature",
+      "isNew": true,
+      "type" : 2
+    },
+    {
+      "tag": "graffiti",
+      "isNew": false,
+      "type" : 2
+    },
+    {
+      "tag": "3d",
+      "type" : 2
+    },
+    {
+      "tag": "Aksara Jawa",
+      "type" : 2
+    },
+    {
+      "tag": "Art-deco",
+      "type" : 2
+    },
+    {
+      "tag": "Baseball",
+      "type" : 2
+    },
+    {
+      "tag": "black letter",
+      "type" : 2
+    },
+    {
+      "tag": "Calligraphy",
+      "type" : 2
+    },
+    {
+      "tag": "Cursive",
+      "type" : 2
+    },
+    {
+      "tag": "Engineering",
+      "type" : 2
+    },
+    {
+      "tag": "Lettering",
+      "type" : 2
+    },
+    {
+      "tag": "Medival",
+      "type" : 2
+    },
+    {
+      "tag": "modifier letter right arrowhead",
+      "type" : 2
+    },
+    {
+      "tag": "Monogram",
+      "type" : 2
+    },
+    {
+      "tag": "Movie",
+      "type" : 2
+    },
+    {
+      "tag": "Neon",
+      "type" : 2
+    },
+    {
+      "tag": "old english",
+      "type" : 2
+    },
+    {
+      "tag": "Stencil",
+      "type" : 2
+    },
+    {
+      "tag": "Tsabit Latief",
+      "type" : 2
+    }
+  ]
+}
