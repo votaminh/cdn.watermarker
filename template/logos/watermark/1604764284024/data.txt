@@ -1,7 +1,5 @@
 {
   "thumbnails_path": "/data/user/0/com.TTT.logomaker.logocreator.generator.designer/files/projects/1604764284024/thumb.png",
-  "background_color": -10476997,
-  "background_name": "-10476997",
   "matrix": "0.56782335,0.0,0.0,0.0,0.56782335,373.0,0.0,0.0,1.0",
   "project_data": [
     {
