@@ -1,0 +1,51 @@
+{
+  "thumbnails_path": "/data/user/0/com.TTT.logomaker.logocreator.generator.designer/files/projects/1705997850322/thumb.png",
+  "matrix": "0.5625,0.0,0.0,0.0,0.5625,304.0,0.0,0.0,1.0",
+  "project_data": [
+    {
+      "type": "text",
+      "matrix": "2.47,0.0,130.84497,0.0,2.47,784.8611,0.0,0.0,1.0",
+      "text_data": {
+        "content": "LOGO NAME",
+        "sizePx": 60,
+        "fontPosition": 2,
+        "fontName": "FugazOne-Regular.ttf",
+        "alignment": 2,
+        "isLower": false,
+        "isBold": false,
+        "isUnderline": false,
+        "isItalic": false,
+        "spacing": 0,
+        "lineHeight": 20,
+        "textOpacity": 255,
+        "colorShadow": -11653888,
+        "blurShadow": 96,
+        "offsetX": 0,
+        "offsetY": 6,
+        "shadowPosition": 1,
+        "borderPosition": 1,
+        "colorBorder": -512,
+        "sizeBorder": 3.559999942779541,
+        "backgroundOpacity": 255,
+        "paddingBackgroundX": 10,
+        "paddingBackgroundY": 10,
+        "roundBackground": 0,
+        "curve": 0,
+        "gradientPosition": 0,
+        "angleGradientText": 0,
+        "palettePosition": 0,
+        "colorText": -10747,
+        "colorPosition": 1,
+        "colorBackgroundPosition": 0,
+        "colorBackground": 0,
+        "gradientBackgroundPosition": 0,
+        "angleGradientBackground": 90,
+        "colorBorderBackground": 0,
+        "colorBorderBackgroundPosition": 0,
+        "borderBackgroundOpacity": 255,
+        "sizeBorderBackground": 3
+      },
+      "isLock": false
+    }
+  ]
+}
