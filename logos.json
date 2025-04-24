@@ -4,41 +4,6 @@
       "name": "watermark",
       "data": [
         {
-          "template_name": "1724251614174",
-          "iap": false,
-          "time": 1724252579101
-        },
-        {
-          "template_name": "1724251750016",
-          "iap": false,
-          "time": 1724252579101
-        },
-        {
-          "template_name": "1724251891823",
-          "iap": true,
-          "time": 1724252579101
-        },
-        {
-          "template_name": "1724251962312",
-          "iap": false,
-          "time": 1724252579101
-        },
-        {
-          "template_name": "1724252102904",
-          "iap": true,
-          "time": 1724252579101
-        },
-        {
-          "template_name": "1724252176455",
-          "iap": true,
-          "time": 1724252579101
-        },
-        {
-          "template_name": "1724252240248",
-          "iap": false,
-          "time": 1724252579101
-        },
-        {
           "template_name": "1705897639540",
           "iap": false
         },
